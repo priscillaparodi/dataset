@@ -5028,5 +5028,545 @@
     "product": "Benefit Cosmetics High Beam Liquid Face Highlighter Mini",
     "description": "is a mini version of the high beam highlighter, perfect for travel and touch-ups.",
     "category": "Makeup"
-  }
+  },
+  {
+    "product": "Glossier Milky Jelly Cleanser",
+    "description": "is a gentle and effective daily facial cleanser that dissolves makeup and impurities without stripping the skin's moisture.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Laneige Water Sleeping Mask",
+    "description": "is an overnight hydrating mask that provides intense moisture to the skin while you sleep, leaving it refreshed and revitalized in the morning.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Peter Thomas Roth Pumpkin Enzyme Mask",
+    "description": "is a powerful exfoliating mask that contains pumpkin enzyme and alpha hydroxy acids to reveal smoother and radiant skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Superfood Antioxidant Cleanser",
+    "description": "is a nutrient-rich gel cleanser infused with superfood ingredients like kale, spinach, and green tea, providing a gentle and nourishing cleanse.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tatcha The Deep Cleanse",
+    "description": "is a gel cleanser that purifies and refreshes the skin, drawing out impurities and excess oil for a clear complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Paula's Choice 10% Azelaic Acid Booster",
+    "description": "is a multi-functional treatment that brightens the skin, reduces redness, and refines the appearance of pores.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Farmacy Green Clean Makeup Removing Cleansing Balm",
+    "description": "is a nourishing cleansing balm that melts away makeup and impurities, leaving the skin clean and hydrated.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+    "description": "is a potent night serum that contains a blend of glycolic, tartaric, lactic, and salicylic acids to exfoliate and clarify the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Superberry Hydrate + Glow Dream Mask",
+    "description": "is an overnight mask packed with superberries and vitamin C to hydrate, brighten, and nourish the skin while you sleep.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Biossance Squalane + Vitamin C Rose Oil",
+    "description": "is a luxurious facial oil that combines squalane and vitamin C to visibly brighten and firm the skin, revealing a radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glow Recipe Watermelon Glow PHA+BHA Pore-Tight Toner",
+    "description": "is a hydrating toner that contains PHA and BHA to gently exfoliate and refine the skin's texture, minimizing the appearance of pores.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "The Ordinary Hyaluronic Acid 2% + B5",
+    "description": "is a lightweight serum that delivers intense hydration to the skin, promoting a plump and smooth complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment",
+    "description": "is a color-correcting treatment that neutralizes redness and soothes irritated skin, providing a natural and even complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Caudalie Vinoperfect Radiance Serum",
+    "description": "is a brightening serum that reduces the appearance of dark spots and evens out the skin tone, revealing a more radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Kiehl's Ultra Facial Cream",
+    "description": "is a lightweight and non-greasy moisturizer that provides 24-hour hydration, leaving the skin smooth and supple.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Krave Beauty Great Barrier Relief",
+    "description": "is a soothing serum that helps repair and strengthen the skin's barrier, reducing sensitivity and redness.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "La Roche-Posay Anthelios Melt-In Milk Sunscreen SPF 100",
+    "description": "is a high-protection sunscreen that provides broad-spectrum UVA/UVB protection without a greasy residue.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Fresh Soy Face Cleanser",
+    "description": "is a gentle gel cleanser that removes impurities and makeup while maintaining the skin's natural moisture balance.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Neutrogena Oil-Free Moisture SPF 35",
+    "description": "is a lightweight and oil-free moisturizer that provides sun protection while keeping the skin hydrated.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ole Henriksen Banana Bright Eye Crème",
+    "description": "is an illuminating eye cream that targets dark circles and brightens the under-eye area for a more refreshed look.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Pixi Glow Tonic Exfoliating Toner",
+    "description": "is an exfoliating toner that contains glycolic acid to remove dead skin cells and reveal a smoother complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ren Clean Skincare Ready Steady Glow Daily AHA Toner",
+    "description": "is a brightening toner that contains AHAs to exfoliate and refine the skin's texture, promoting a radiant glow.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Saturday Skin Waterfall Glacier Water Cream",
+    "description": "is a lightweight and refreshing moisturizer that provides deep hydration without feeling heavy on the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Shiseido Ultimune Power Infusing Concentrate",
+    "description": "is a powerful serum that strengthens the skin's defense system, improving resilience and reducing signs of aging.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Skinceuticals C E Ferulic Serum",
+    "description": "is a potent antioxidant serum that contains vitamin C, vitamin E, and ferulic acid to protect the skin against environmental damage.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Summer Fridays Jet Lag Mask",
+    "description": "is a hydrating and nourishing mask that provides a surge of moisture to the skin, leaving it soft and revitalized.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tata Harper Resurfacing Mask",
+    "description": "is a glow-boosting mask that contains beta hydroxy acids to exfoliate and reveal a radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Adaptogen Deep Moisture Cream",
+    "description": "is a calming and moisturizing cream that contains adaptogens and peptides to nourish and soothe the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Biossance Squalane + Omega Repair Cream",
+    "description": "is a rich and hydrating cream that contains squalane and omega fatty acids to replenish and strengthen the skin's moisture barrier.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glow Recipe Avocado Melt Retinol Eye Sleeping Mask",
+    "description": "is an overnight eye mask that contains encapsulated retinol and avocado to smooth and brighten the under-eye area.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Krave Beauty The Beet Shield",
+    "description": "is a lightweight sunscreen that contains beetroot extract to protect the skin from UV rays and pollution.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "La Mer Crème de la Mer",
+    "description": "is a luxurious moisturizing cream that deeply hydrates and rejuvenates the skin, reducing the appearance of fine lines and wrinkles.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Laneige Lip Sleeping Mask",
+    "description": "is an overnight lip mask that provides intense hydration and softness to dry and chapped lips.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Paula's Choice 2% BHA Liquid Exfoliant",
+    "description": "is a leave-on exfoliant that contains salicylic acid to unclog pores and reduce blackheads and breakouts.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tatcha The Rice Polish Foaming Enzyme Powder",
+    "description": "is a water-activated enzyme powder exfoliant that gently polishes and brightens the skin, revealing a smoother texture.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Drunk Elephant C-Firma Vitamin C Day Serum",
+    "description": "is a potent vitamin C serum that brightens the skin and improves the appearance of uneven skin tone and fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Fresh Rose Deep Hydration Face Cream",
+    "description": "is a lightweight gel-cream that provides deep hydration and soothes the skin with rosewater and hyaluronic acid.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Neutrogena Hydro Boost Hydrating Water Gel",
+    "description": "is a lightweight and oil-free gel moisturizer that instantly quenches thirsty skin, leaving it smooth and supple.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ole Henriksen Truth Serum",
+    "description": "is a brightening and anti-aging serum that contains vitamin C and collagen to improve the skin's elasticity and radiance.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Pixi Glow Mud Cleanser",
+    "description": "is a deep-cleansing mud cleanser that purifies the skin and removes impurities, leaving it clean and refreshed.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ren Clean Skincare Evercalm Global Protection Day Cream",
+    "description": "is a calming and protective day cream that soothes sensitive skin and provides all-day hydration.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Saturday Skin Wide Awake Brightening Eye Cream",
+    "description": "is a hydrating eye cream that contains date seed extract to brighten and refresh the under-eye area.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Shiseido Benefiance Wrinkle Smoothing Eye Cream",
+    "description": "is an anti-aging eye cream that targets fine lines and wrinkles, improving the appearance of the eye area.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Skinceuticals Hyaluronic Acid Intensifier",
+    "description": "is a serum that amplifies the skin's hyaluronic acid levels, providing long-lasting hydration and plumpness.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Summer Fridays CC Me Vitamin C Serum",
+    "description": "is a brightening serum that contains vitamin C and squalane to improve the appearance of uneven skin tone and dark spots.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tata Harper Regenerating Cleanser",
+    "description": "is a gentle exfoliating cleanser that contains apricot seed powder and pomegranate enzymes to reveal a radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Kombucha + 11% AHA Exfoliation Power Toner",
+    "description": "is a powerful toner that contains kombucha and alpha hydroxy acids to exfoliate and brighten the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Biossance Squalane + Marine Algae Eye Cream",
+    "description": "is a nourishing eye cream that contains squalane and marine algae to hydrate and reduce the appearance of fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glow Recipe Pineapple-C Brightening Serum",
+    "description": "is a vitamin C serum that contains pineapple juice and chamomile to brighten and soothe the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Krave Beauty Oat So Simple Water Cream",
+    "description": "is a minimalist moisturizer that contains oat extract to provide lightweight hydration to sensitive skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "La Roche-Posay Double Repair Face Moisturizer SPF 30",
+    "description": "is a lightweight moisturizer that contains ceramides and SPF 30 to protect and repair the skin barrier.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Laneige Lip Glowy Balm",
+    "description": "is a hydrating lip balm that provides a glossy finish and keeps the lips soft and moisturized.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Paula's Choice 2% BHA Liquid Exfoliant",
+    "description": "is a leave-on exfoliant that contains salicylic acid to unclog pores and reduce blackheads and breakouts.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tatcha The Rice Polish Foaming Enzyme Powder",
+    "description": "is a water-activated enzyme powder exfoliant that gently polishes and brightens the skin, revealing a smoother texture.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Drunk Elephant C-Firma Vitamin C Day Serum",
+    "description": "is a potent vitamin C serum that brightens the skin and improves the appearance of uneven skin tone and fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Fresh Rose Deep Hydration Face Cream",
+    "description": "is a lightweight gel-cream that provides deep hydration and soothes the skin with rosewater and hyaluronic acid.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Neutrogena Hydro Boost Hydrating Water Gel",
+    "description": "is a lightweight and oil-free gel moisturizer that instantly quenches thirsty skin, leaving it smooth and supple.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ole Henriksen Truth Serum",
+    "description": "is a brightening and anti-aging serum that contains vitamin C and collagen to improve the skin's elasticity and radiance.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Pixi Glow Mud Cleanser",
+    "description": "is a deep-cleansing mud cleanser that purifies the skin and removes impurities, leaving it clean and refreshed.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ren Clean Skincare Evercalm Global Protection Day Cream",
+    "description": "is a calming and protective day cream that soothes sensitive skin and provides all-day hydration.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Saturday Skin Wide Awake Brightening Eye Cream",
+    "description": "is a hydrating eye cream that contains date seed extract to brighten and refresh the under-eye area.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Shiseido Benefiance Wrinkle Smoothing Eye Cream",
+    "description": "is an anti-aging eye cream that targets fine lines and wrinkles, improving the appearance of the eye area.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Skinceuticals Hyaluronic Acid Intensifier",
+    "description": "is a serum that amplifies the skin's hyaluronic acid levels, providing long-lasting hydration and plumpness.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Summer Fridays CC Me Vitamin C Serum",
+    "description": "is a brightening serum that contains vitamin C and squalane to improve the appearance of uneven skin tone and dark spots.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tata Harper Regenerating Cleanser",
+    "description": "is a gentle exfoliating cleanser that contains apricot seed powder and pomegranate enzymes to reveal a radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Kombucha + 11% AHA Exfoliation Power Toner",
+    "description": "is a powerful toner that contains kombucha and alpha hydroxy acids to exfoliate and brighten the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Biossance Squalane + Marine Algae Eye Cream",
+    "description": "is a nourishing eye cream that contains squalane and marine algae to hydrate and reduce the appearance of fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glow Recipe Pineapple-C Brightening Serum",
+    "description": "is a vitamin C serum that contains pineapple juice and chamomile to brighten and soothe the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Krave Beauty Oat So Simple Water Cream",
+    "description": "is a minimalist moisturizer that contains oat extract to provide lightweight hydration to sensitive skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "La Roche-Posay Double Repair Face Moisturizer SPF 30",
+    "description": "is a lightweight moisturizer that contains ceramides and SPF 30 to protect and repair the skin barrier.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Laneige Lip Glowy Balm",
+    "description": "is a hydrating lip balm that provides a glossy finish and keeps the lips soft and moisturized.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Dr. Jart+ Cicapair Tiger Grass Calming Mist",
+    "description": "is a calming mist that contains tiger grass extract to soothe and hydrate the skin, providing instant relief.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Caudalie Beauty Elixir",
+    "description": "is a revitalizing and radiance-boosting mist that tones and refreshes the skin with a blend of essential oils.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Clinique Take The Day Off Cleansing Balm",
+    "description": "is a lightweight cleansing balm that effectively removes makeup and impurities, leaving the skin clean and soft.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Superfood Peptide Eye Cream",
+    "description": "is a nourishing eye cream that contains superfoods and peptides to hydrate and minimize the appearance of fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Biossance Squalane + Vitamin C Rose Oil",
+    "description": "is a luxurious facial oil that combines squalane and vitamin C to visibly brighten and firm the skin, revealing a radiant complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glow Recipe Watermelon Pink Juice Moisturizer",
+    "description": "is a lightweight moisturizer that contains watermelon extract to hydrate and soothe the skin, leaving it plump and dewy.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Drunk Elephant Virgin Marula Luxury Facial Oil",
+    "description": "is a pure marula oil that nourishes and moisturizes the skin, providing a healthy and radiant glow.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Fresh Soy Face Cleanser",
+    "description": "is a gentle gel cleanser that removes impurities and makeup while maintaining the skin's natural moisture balance.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Glossier Futuredew Oil Serum Hybrid",
+    "description": "is a hybrid oil-serum that provides an instant dewy glow and long-term skin benefits, leaving the complexion radiant and hydrated.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Herbivore Lapis Blue Tansy Face Oil",
+    "description": "is a balancing facial oil that contains blue tansy and squalane to calm and clarify the skin, reducing redness and blemishes.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Kiehl's Ultra Facial Cleanser",
+    "description": "is a gentle and pH-balanced cleanser that effectively removes dirt and impurities without stripping the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Klairs Supple Preparation Unscented Toner",
+    "description": "is a soothing and hydrating toner that balances the skin's pH level and preps it for better absorption of other products.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "La Mer The Concentrate",
+    "description": "is a potent treatment that accelerates the skin's natural repair process, reducing the appearance of scars and irritation.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Laneige Cream Skin Refiner",
+    "description": "is a moisturizing toner that doubles as a lightweight cream, providing intense hydration and nourishment to the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "L'Occitane Shea Butter Hand Cream",
+    "description": "is a rich and moisturizing hand cream that contains shea butter to soften and protect dry hands.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Mamonde Rose Water Toner",
+    "description": "is a soothing and hydrating toner that contains rose water to balance the skin's pH and refine its texture.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Mario Badescu Facial Spray with Aloe, Cucumber, and Green Tea",
+    "description": "is a refreshing facial mist that contains aloe, cucumber, and green tea to invigorate and hydrate the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Missha Time Revolution First Treatment Essence Intensive Moist",
+    "description": "is an essence that contains fermented yeast extract to improve the skin's texture and promote a clear complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Murad Retinol Youth Renewal Serum",
+    "description": "is a potent retinol serum that reduces the appearance of fine lines and wrinkles, promoting a smoother and more youthful complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Neutrogena Makeup Remover Cleansing Towelettes",
+    "description": "are soft and pre-moistened towelettes that effectively remove makeup, dirt, and oil without leaving a greasy residue.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Ole Henriksen Transforming Walnut Scrub",
+    "description": "is a walnut-based exfoliating scrub that buffs away dead skin cells and impurities, leaving the skin smooth and radiant.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Origins GinZing Energy-Boosting Gel Moisturizer",
+    "description": "is a lightweight gel moisturizer that contains coffee bean and ginseng to revitalize and energize dull-looking skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Paula's Choice 10% Niacinamide Booster",
+    "description": "is a concentrated niacinamide booster that helps minimize the appearance of pores and improve uneven skin tone.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Peach & Lily Glass Skin Refining Serum",
+    "description": "is a serum that contains peach extract and niacinamide to promote a clear and glass-like complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Pixi Glow Peel Pads",
+    "description": "are pre-soaked exfoliating pads that contain glycolic acid to reveal a brighter and more even-toned complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "REN Clean Skincare Glycol Lactic Radiance Renewal Mask",
+    "description": "is a potent exfoliating mask that contains glycolic and lactic acids to renew the skin's texture and radiance.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Saturday Skin Rub-A-Dub Refining Peel Gel",
+    "description": "is a gentle exfoliating gel that sloughs away dead skin cells, revealing a smoother and more refined complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Shiseido Ultimune Eye Power Infusing Eye Concentrate",
+    "description": "is an eye concentrate that strengthens and nourishes the delicate skin around the eyes, reducing the appearance of wrinkles and dark circles.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "SK-II Facial Treatment Essence",
+    "description": "is a cult-favorite essence that contains Pitera™ to improve the skin's texture and radiance, promoting a clear and youthful complexion.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Son & Park Beauty Water",
+    "description": "is a multitasking toner and cleansing water that purifies and preps the skin for better absorption of skincare products.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Sunday Riley Luna Sleeping Night Oil",
+    "description": "is a retinol-infused facial oil that promotes smooth and radiant skin while reducing the appearance of pores and fine lines.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Thayers Witch Hazel Toner",
+    "description": "is a soothing and alcohol-free toner that contains witch hazel to cleanse and tone the skin without causing dryness.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "The Ordinary AHA 30% + BHA 2% Peeling Solution",
+    "description": "is a powerful exfoliating treatment that contains AHA and BHA to improve skin texture and reduce the appearance of blemishes.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Tonymoly I'm Real Sheet Masks",
+    "description": "are sheet masks that come in various formulations to target different skin concerns, providing a quick and hydrating boost to the skin.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Too Faced Hangover Replenishing Face Primer",
+    "description": "is a hydrating primer that contains coconut water and probiotics to nourish and smooth the skin, creating a dewy canvas for makeup.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Vichy LiftActiv Vitamin C Serum",
+    "description": "is a brightening serum that contains vitamin C and hyaluronic acid to firm and hydrate the skin, reducing the appearance of wrinkles.",
+    "category": "Skin Care"
+  },
+  {
+    "product": "Youth To The People Superfood Air-Whip Moisture Cream",
+    "description": "is a lightweight and air-whipped moisturizer that contains superfoods to nourish and protect the skin.",
+    "category": "Skin Care"
+  }    
 ]
