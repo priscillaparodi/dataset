@@ -2433,5 +2433,665 @@
         "product": "Garmin Fenix 6X Pro Solar GPS Smartwatch",
         "description": "is a premium smartwatch with solar charging and multisport features. It's perfect for outdoor adventures and fitness tracking.",
         "category": "Smartwatches"
+    },
+    {
+        "product": "LEGO Star Wars Millennium Falcon",
+        "description": "is a popular LEGO set featuring the iconic Millennium Falcon spaceship from the Star Wars saga. It's perfect for Star Wars fans and LEGO enthusiasts.",
+        "category": "Toys"
+    },
+    {
+        "product": "Hot Wheels Ultimate Garage Playset",
+        "description": "is an action-packed Hot Wheels playset featuring multiple levels, ramps, and storage for toy cars. It provides hours of imaginative play.",
+        "category": "Toys"
+    },
+    {
+        "product": "Barbie Dreamhouse",
+        "description": "is a classic Barbie playset with multiple rooms, furniture, and accessories. It allows kids to create their dream Barbie world.",
+        "category": "Toys"
+    },
+    {
+        "product": "NERF N-Strike Elite Blaster",
+        "description": "is a powerful NERF blaster that can shoot foam darts at a long range. It's great for fun outdoor battles with friends.",
+        "category": "Toys"
+    },
+    {
+        "product": "Melissa & Doug Wooden Building Blocks Set",
+        "description": "is a set of high-quality wooden blocks that promote creativity and imagination in kids. They can build various structures and shapes.",
+        "category": "Toys"
+    },
+    {
+        "product": "Fisher-Price Rock-a-Stack",
+        "description": "is a classic baby toy with colorful rings that stack on a cone. It helps develop motor skills and hand-eye coordination in infants.",
+        "category": "Toys"
+    },
+    {
+        "product": "Play-Doh Modeling Compound",
+        "description": "is a versatile modeling clay that comes in various colors. It's perfect for kids' creative play and making fun shapes.",
+        "category": "Toys"
+    },
+    {
+        "product": "Hatchimals CollEGGtibles",
+        "description": "are cute collectible toys that hatch from eggs when kids rub the heart on the shell. Each egg contains a surprise Hatchimal.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO DUPLO My First Number Train",
+        "description": "is a DUPLO set designed for toddlers, featuring a number train and numbered bricks to help introduce counting and numbers.",
+        "category": "Toys"
+    },
+    {
+        "product": "Crayola Inspiration Art Case",
+        "description": "is an extensive art set with various crayons, colored pencils, markers, and drawing paper. It's perfect for young artists.",
+        "category": "Toys"
+    },
+    {
+        "product": "Monopoly Classic Board Game",
+        "description": "is the timeless board game of buying, selling, and trading properties. It's a fun and strategic game for family and friends.",
+        "category": "Toys"
+    },
+    {
+        "product": "Uno Card Game",
+        "description": "is a classic card game that is easy to learn and fun to play with family and friends. The objective is to get rid of all your cards by matching numbers or colors.",
+        "category": "Toys"
+    },
+    {
+        "product": "Funko POP! Vinyl Figure",
+        "description": "are collectible vinyl figures featuring various characters from movies, TV shows, and pop culture. They're popular among collectors and fans.",
+        "category": "Toys"
+    },
+    {
+        "product": "Nerf Fortnite AR-L Elite Dart Blaster",
+        "description": "is a dart blaster inspired by the popular Fortnite game. It features motorized blasting action and comes with a 10-dart clip and 20 darts.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO Technic Porsche 911 Building Kit",
+        "description": "is an advanced LEGO Technic set that allows builders to construct a detailed Porsche 911 model with working mechanisms.",
+        "category": "Toys"
+    },
+    {
+        "product": "Melissa & Doug Wooden Jigsaw Puzzles",
+        "description": "are high-quality wooden puzzles with various themes for kids. They promote problem-solving skills and cognitive development.",
+        "category": "Toys"
+    },
+    {
+        "product": "VTech Sit-to-Stand Learning Walker",
+        "description": "is a multi-functional baby walker that offers various learning activities and can be used as a play center for babies.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO Friends Heartlake City Resort",
+        "description": "is a LEGO set featuring a resort hotel with various amenities, slides, and water activities. It's perfect for imaginative play.",
+        "category": "Toys"
+    },
+    {
+        "product": "Baby Alive Sweet Spoonfuls Baby Doll",
+        "description": "is a doll that can eat and poop with its spoon and potty. It offers a realistic baby care experience for young children.",
+        "category": "Toys"
+    },
+    {
+        "product": "Candy Land Board Game",
+        "description": "is a classic board game for young children. Players journey through the Candy Land path by drawing colored cards.",
+        "category": "Toys"
+    },
+    {
+        "product": "Melissa & Doug Deluxe Wooden Kitchen Accessory Set",
+        "description": "is a set of wooden play kitchen accessories, including pots, pans, utensils, and play food. It enhances pretend cooking play.",
+        "category": "Toys"
+    },
+    {
+        "product": "Playmobil Ghostbusters Ecto-1",
+        "description": "is a Playmobil set featuring the iconic Ghostbusters Ecto-1 vehicle and figures. It's perfect for Ghostbusters fans and playtime adventures.",
+        "category": "Toys"
+    },
+    {
+        "product": "Little Tikes Easy Score Basketball Set",
+        "description": "is an adjustable basketball hoop set for toddlers and young kids. It promotes active play and develops motor skills.",
+        "category": "Toys"
+    },
+    {
+        "product": "Crayola Washable Kids' Paint",
+        "description": "is a set of washable paints designed for kids. It's perfect for art projects and creative expression.",
+        "category": "Toys"
+    },
+    {
+        "product": "Fisher-Price Laugh & Learn Smart Stages Chair",
+        "description": "is an interactive chair for babies and toddlers. It features songs, phrases, and activities to engage and entertain young learners.",
+        "category": "Toys"
+    },
+    {
+        "product": "Hot Wheels City Ultimate Garage",
+        "description": "is an expansive Hot Wheels playset featuring multiple levels, tracks, and vehicle storage. It offers endless racing fun for car enthusiasts.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO DUPLO Disney Mickey Mouse Clubhouse",
+        "description": "is a DUPLO set featuring Mickey Mouse and his friends in a colorful playhouse. It's perfect for preschoolers and Disney fans.",
+        "category": "Toys"
+    },
+    {
+        "product": "Candy Craft Chocolate Pen",
+        "description": "is a fun chocolate pen that allows kids to draw and create delicious chocolate treats. It's a creative and tasty activity.",
+        "category": "Toys"
+    },
+    {
+        "product": "Fisher-Price Little People Big Helpers Home",
+        "description": "is a playset featuring a toy house and Little People figures. It encourages imaginative play and role-playing activities.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO City Space Mars Research Shuttle",
+        "description": "is a LEGO set that lets kids build a space shuttle and Mars rover for exciting space missions. It's perfect for space enthusiasts.",
+        "category": "Toys"
+    },
+    {
+        "product": "Uno Flip Card Game",
+        "description": "is a variation of the classic Uno card game, with a twist. Players can flip the deck and change the game's direction.",
+        "category": "Toys"
+    },
+    {
+        "product": "Funko POP! Marvel Avengers Endgame Figures",
+        "description": "are collectible vinyl figures featuring Marvel Avengers characters from the movie Endgame. They're great for Marvel fans and collectors.",
+        "category": "Toys"
+    },
+    {
+        "product": "Melissa & Doug Magnetic Dress-Up Dolls",
+        "description": "are magnetic dolls with various outfits and accessories. They offer creative dress-up play for kids.",
+        "category": "Toys"
+    },
+    {
+        "product": "NERF Rival Nemesis MXVII-10K Blaster",
+        "description": "is a high-capacity NERF blaster that fires foam balls at a high velocity. It's perfect for action-packed NERF battles.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO Technic Bugatti Chiron Building Kit",
+        "description": "is an advanced LEGO Technic set that allows builders to construct a detailed Bugatti Chiron model with working mechanisms.",
+        "category": "Toys"
+    },
+    {
+        "product": "Fisher-Price Baby's First Blocks",
+        "description": "is a baby toy with shape-sorting fun. It helps develop fine motor skills and shape recognition in infants.",
+        "category": "Toys"
+    },
+    {
+        "product": "Play-Doh Kitchen Creations Magical Oven",
+        "description": "is a playset that lets kids pretend to bake and cook with Play-Doh creations. It includes a variety of cooking accessories.",
+        "category": "Toys"
+    },
+    {
+        "product": "VTech Touch and Learn Activity Desk",
+        "description": "is an interactive activity desk for toddlers with various learning activities, music, and fun features.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO City Police Mobile Command Center",
+        "description": "is a LEGO set featuring a police truck and command center. It's perfect for police-themed play and adventures.",
+        "category": "Toys"
+    },
+    {
+        "product": "Crayola Silly Scents Markers",
+        "description": "are scented markers with fun and fruity smells. They add a creative twist to kids' drawing and coloring activities.",
+        "category": "Toys"
+    },
+    {
+        "product": "Fisher-Price Imaginext DC Super Friends Batcave",
+        "description": "is an action-packed playset featuring the Batcave and Batman figures. It's perfect for superhero adventures.",
+        "category": "Toys"
+    },
+    {
+        "product": "Melissa & Doug Deluxe Standing Art Easel",
+        "description": "is an adjustable standing easel with a dry-erase board and chalkboard. It's perfect for young artists and creativity.",
+        "category": "Toys"
+    },
+    {
+        "product": "LEGO DUPLO Town Fire Truck",
+        "description": "is a DUPLO set featuring a fire truck and firefighter figures. It allows kids to role-play and engage in rescue missions.",
+        "category": "Toys"
+    },
+    {
+        "product": "Crayola Color Wonder Mess-Free Coloring Set",
+        "description": "is a mess-free coloring set with special markers that only work on Color Wonder paper. It's perfect for on-the-go creativity.",
+        "category": "Toys"
+    },
+    {
+        "product": "Baby Shark Official Sound Book",
+        "description": "is an interactive sound book featuring the popular Baby Shark song. It's perfect for young fans of the viral song.",
+        "category": "Books"
+    },
+    {
+        "product": "Goodnight Moon Board Book",
+        "description": "is a classic children's bedtime book that follows a bunny saying goodnight to everything around them.",
+        "category": "Books"
+    },
+    {
+        "product": "First 100 Words Board Book",
+        "description": "is a board book designed to help toddlers learn their first 100 words through colorful illustrations.",
+        "category": "Books"
+    },
+    {
+        "product": "The Very Hungry Caterpillar",
+        "description": "is a beloved children's book that follows the journey of a caterpillar as it eats its way to becoming a beautiful butterfly.",
+        "category": "Books"
+    },
+    {
+        "product": "Giraffes Can't Dance",
+        "description": "is a heartwarming picture book that teaches kids the importance of self-confidence and celebrating individuality.",
+        "category": "Books"
+    },
+    {
+        "product": "Where the Wild Things Are",
+        "description": "is a classic children's book that follows the imaginative adventure of a young boy named Max.",
+        "category": "Books"
+    },
+    {
+        "product": "Brown Bear, Brown Bear, What Do You See?",
+        "description": "is a colorful children's book that introduces various animals and colors to young readers.",
+        "category": "Books"
+    },
+    {
+        "product": "Guess How Much I Love You",
+        "description": "is a heartwarming story that explores the love between a parent and a child through playful expressions of love.",
+        "category": "Books"
+    },
+    {
+        "product": "Chicka Chicka Boom Boom",
+        "description": "is a fun and rhythmic alphabet book that follows the journey of the alphabet letters as they climb up a coconut tree.",
+        "category": "Books"
+    },
+    {
+        "product": "The Pout-Pout Fish",
+        "description": "is an amusing picture book that follows the journey of the Pout-Pout Fish as he discovers the power of a smile.",
+        "category": "Books"
+    },
+    {
+        "product": "Dr. Seuss's ABC",
+        "description": "is a classic alphabet book by Dr. Seuss that introduces young readers to the letters of the alphabet with whimsical illustrations.",
+        "category": "Books"
+    },
+    {
+        "product": "I Love You to the Moon and Back",
+        "description": "is a heartwarming board book that expresses a parent's boundless love for their child.",
+        "category": "Books"
+    },
+    {
+        "product": "The Very Busy Spider",
+        "description": "is an interactive picture book by Eric Carle that follows the story of a spider weaving her web.",
+        "category": "Books"
+    },
+    {
+        "product": "Goodnight, Goodnight, Construction Site",
+        "description": "is a charming bedtime book that follows the bedtime routines of various construction vehicles.",
+        "category": "Books"
+    },
+    {
+        "product": "Dear Zoo: A Lift-the-Flap Book",
+        "description": "is an engaging lift-the-flap book that introduces kids to various zoo animals.",
+        "category": "Books"
+    },
+    {
+        "product": "Press Here",
+        "description": "is an interactive and imaginative picture book that invites young readers to press, shake, and tilt the pages.",
+        "category": "Books"
+    },
+    {
+        "product": "Pete the Cat: I Love My White Shoes",
+        "description": "is a groovy picture book featuring Pete the Cat as he walks along and sings about his white shoes.",
+        "category": "Books"
+    },
+    {
+        "product": "On the Night You Were Born",
+        "description": "is a heartwarming book that celebrates the uniqueness and specialness of each child.",
+        "category": "Books"
+    },
+    {
+        "product": "The Very Quiet Cricket",
+        "description": "is a classic picture book that follows the story of a young cricket as he tries to find his voice.",
+        "category": "Books"
+    },
+    {
+        "product": "The Little Blue Box of Bright and Early Board Books",
+        "description": "is a boxed set featuring a collection of Dr. Seuss's beloved board books for young readers.",
+        "category": "Books"
+    },
+    {
+        "product": "Peek-A Who?",
+        "description": "is a delightful lift-the-flap book that introduces various animals and their sounds to young children.",
+        "category": "Books"
+    },
+    {
+        "product": "Where's Spot?",
+        "description": "is an interactive board book that follows the search for Spot the dog through various lift-the-flap surprises.",
+        "category": "Books"
+    },
+    {
+        "product": "Brown Bear & Friends Board Book Gift Set",
+        "description": "is a collection of board books featuring Brown Bear, Panda Bear, Polar Bear, and Baby Bear.",
+        "category": "Books"
+    },
+    {
+        "product": "The Very Best Classic Fairy Tales Book",
+        "description": "is a collection of timeless fairy tales, including Cinderella, Snow White, and Sleeping Beauty.",
+        "category": "Books"
+    },
+    {
+        "product": "The Wonky Donkey",
+        "description": "is a humorous and catchy picture book featuring a donkey with a unique personality.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "The Subtle Art of Not Giving a F*ck by Mark Manson",
+        "description": "is a self-help book that challenges conventional positive thinking and encourages readers to embrace life's struggles.",
+        "category": "Books"
+    },
+    {
+        "product": "Born a Crime: Stories from a South African Childhood",
+        "description": "is a compelling memoir by Trevor Noah, the host of The Daily Show, about his experiences growing up in South Africa.",
+        "category": "Books"
+    },
+    {
+        "product": "To Kill a Mockingbird by Harper Lee",
+        "description": "is a classic novel that addresses issues of racial injustice and moral growth through the eyes of a young girl.",
+        "category": "Books"
+    },
+    {
+        "product": "The Nightingale by Kristin Hannah",
+        "description": "is a historical fiction novel set during World War II, exploring the lives of two sisters in Nazi-occupied France.",
+        "category": "Books"
+    },
+    {
+        "product": "Where the Crawdads Sing by Delia Owens",
+        "description": "is a captivating novel that blends mystery, romance, and coming-of-age themes in the backdrop of the marshes of North Carolina.",
+        "category": "Books"
+    },
+    {
+        "product": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "description": "is a popular self-help book that offers practical strategies for building positive habits and breaking negative ones.",
+        "category": "Books"
+    },
+    {
+        "product": "Little Fires Everywhere by Celeste Ng",
+        "description": "is a gripping novel that explores the intertwined lives of two families and the secrets that shape their relationships.",
+        "category": "Books"
+    },
+    {
+        "product": "The Silent Patient by Alex Michaelides",
+        "description": "is a psychological thriller about a woman's shocking act of violence and the psychotherapist determined to uncover the truth.",
+        "category": "Books"
+    },
+    {
+        "product": "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
+        "description": "is the first book in the beloved Harry Potter series, following Harry's journey as he discovers his magical heritage.",
+        "category": "Books"
+    },
+    {
+        "product": "The Hunger Games by Suzanne Collins",
+        "description": "is the first book in the thrilling Hunger Games trilogy, set in a dystopian society where young tributes fight to the death in an annual event.",
+        "category": "Books"
+    },
+    {
+        "product": "The Fault in Our Stars by John Green",
+        "description": "is a heartrending young adult novel about the love story of two teenagers living with cancer.",
+        "category": "Books"
+    },
+    {
+        "product": "Divergent by Veronica Roth",
+        "description": "is the first book in the captivating Divergent trilogy, set in a dystopian world where society is divided into factions.",
+        "category": "Books"
+    },
+    {
+        "product": "The Book Thief by Markus Zusak",
+        "description": "is a powerful historical novel set in Nazi Germany, narrated by Death, and centered around a young girl's love for books.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
+    },
+    {
+        "product": "Becoming by Michelle Obama",
+        "description": "is a captivating memoir that offers insights into Michelle Obama's life and journey as the former First Lady of the United States.",
+        "category": "Books"
+    },
+    {
+        "product": "Educated: A Memoir by Tara Westover",
+        "description": "is a powerful memoir that recounts Tara Westover's journey from a remote Idaho mountain town to a PhD from Cambridge University.",
+        "category": "Books"
+    },
+    {
+        "product": "The Alchemist by Paulo Coelho",
+        "description": "is a bestselling philosophical novel that follows the journey of Santiago, an Andalusian shepherd boy, as he searches for treasure.",
+        "category": "Books"
+    },
+    {
+        "product": "Girl, Wash Your Face by Rachel Hollis",
+        "description": "is a motivational book that encourages women to let go of limiting beliefs and embrace their true selves.",
+        "category": "Books"
+    },
+    {
+        "product": "Sapiens: A Brief History of Humankind",
+        "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
+        "category": "Books"
     }
 ]
