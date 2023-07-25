@@ -18157,5 +18157,665 @@
     "product": "Gladiator (Blu-ray)",
     "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
     "category": "Blu-ray and DVD Movies"
-  }    
+  },
+  {
+    "product": "The Beatles - Abbey Road (Vinyl Record)",
+    "description": "is the iconic album by The Beatles, featuring classic tracks like 'Come Together,' 'Here Comes the Sun,' and 'Something.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Pink Floyd - The Dark Side of the Moon (Vinyl Record)",
+    "description": "is a groundbreaking album by Pink Floyd, known for its progressive rock sound and conceptual themes.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Led Zeppelin - IV (Vinyl Record)",
+    "description": "is the fourth studio album by Led Zeppelin, containing hits like 'Stairway to Heaven' and 'Black Dog.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Michael Jackson - Thriller (Vinyl Record)",
+    "description": "is the best-selling album of all time, showcasing Michael Jackson's pop and dance prowess with tracks like 'Billie Jean' and 'Thriller.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Fleetwood Mac - Rumours (Vinyl Record)",
+    "description": "is the eleventh studio album by Fleetwood Mac, featuring hits like 'Go Your Own Way' and 'Don't Stop.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Bob Dylan - Highway 61 Revisited (Vinyl Record)",
+    "description": "is a landmark album by Bob Dylan, including classics such as 'Like a Rolling Stone' and 'Desolation Row.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Vinyl Record)",
+    "description": "is a concept album by David Bowie, introducing the character Ziggy Stardust and featuring tracks like 'Starman' and 'Suffragette City.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Prince - Purple Rain (Vinyl Record)",
+    "description": "is the soundtrack album to the film 'Purple Rain,' showcasing Prince's musical talent with songs like 'Purple Rain' and 'When Doves Cry.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Exile on Main St. (Vinyl Record)",
+    "description": "is a double album by The Rolling Stones, known for its diverse range of musical styles and hits like 'Tumbling Dice' and 'Sweet Virginia.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Nirvana - Nevermind (Vinyl Record)",
+    "description": "is the second studio album by Nirvana, featuring the iconic track 'Smells Like Teen Spirit' and helping to popularize grunge music.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Queen - A Night at the Opera (Vinyl Record)",
+    "description": "is the fourth studio album by Queen, including the classic 'Bohemian Rhapsody' and other hits like 'You're My Best Friend.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Elvis Presley - Elvis Presley (Vinyl Record)",
+    "description": "is the debut studio album by Elvis Presley, featuring rock and roll classics like 'Blue Suede Shoes' and 'Hound Dog.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Bruce Springsteen - Born to Run (Vinyl Record)",
+    "description": "is the third studio album by Bruce Springsteen, known for its energetic and heartfelt tracks like the title song 'Born to Run.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Prince and The Revolution - 1999 (Vinyl Record)",
+    "description": "is the fifth studio album by Prince, known for its mix of funk, R&B, and pop music, with hits like '1999' and 'Little Red Corvette.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Jimi Hendrix Experience - Are You Experienced (Vinyl Record)",
+    "description": "is the debut studio album by The Jimi Hendrix Experience, featuring Hendrix's innovative guitar work and tracks like 'Purple Haze' and 'Hey Joe.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Miles Davis - Kind of Blue (Vinyl Record)",
+    "description": "is a landmark jazz album by Miles Davis, known for its improvisational style and influential tracks like 'So What' and 'All Blues.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Clash - London Calling (Vinyl Record)",
+    "description": "is the third studio album by The Clash, combining punk, reggae, and rockabilly influences and featuring hits like the title track 'London Calling.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "AC/DC - Back in Black (Vinyl Record)",
+    "description": "is the seventh studio album by AC/DC, paying tribute to their late lead singer Bon Scott and featuring iconic tracks like 'Back in Black' and 'You Shook Me All Night Long.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Amy Winehouse - Back to Black (Vinyl Record)",
+    "description": "is the second studio album by Amy Winehouse, showcasing her soulful vocals and featuring tracks like 'Rehab' and 'Back to Black.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Radiohead - OK Computer (Vinyl Record)",
+    "description": "is the third studio album by Radiohead, known for its experimental and progressive sound, with tracks like 'Paranoid Android' and 'Karma Police.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joni Mitchell - Blue (Vinyl Record)",
+    "description": "is a confessional and introspective album by Joni Mitchell, featuring emotional tracks like 'River' and 'A Case of You.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Johnny Cash - At Folsom Prison (Vinyl Record)",
+    "description": "is a live album by Johnny Cash, recorded at Folsom State Prison, and including tracks like 'Folsom Prison Blues' and 'Jackson.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Aretha Franklin - I Never Loved a Man the Way I Love You (Vinyl Record)",
+    "description": "is the eleventh studio album by Aretha Franklin, featuring soulful tracks like 'Respect' and 'Do Right Woman, Do Right Man.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Who - Who's Next (Vinyl Record)",
+    "description": "is the fifth studio album by The Who, featuring classic rock tracks like 'Baba O'Riley' and 'Won't Get Fooled Again.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Velvet Underground & Nico - The Velvet Underground & Nico (Vinyl Record)",
+    "description": "is the debut album by The Velvet Underground, featuring the iconic banana cover and tracks like 'Sunday Morning' and 'Heroin.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Simon & Garfunkel - Bridge Over Troubled Water (Vinyl Record)",
+    "description": "is the fifth and final studio album by Simon & Garfunkel, featuring the title track 'Bridge Over Troubled Water' and 'The Boxer.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Beach Boys - Pet Sounds (Vinyl Record)",
+    "description": "is the eleventh studio album by The Beach Boys, featuring innovative production and hits like 'Wouldn't It Be Nice' and 'God Only Knows.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joy Division - Unknown Pleasures (Vinyl Record)",
+    "description": "is the debut studio album by Joy Division, known for its post-punk sound and influential tracks like 'Disorder' and 'She's Lost Control.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Metallica - Master of Puppets (Vinyl Record)",
+    "description": "is the third studio album by Metallica, featuring heavy metal classics like 'Battery' and 'Master of Puppets.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "John Coltrane - A Love Supreme (Vinyl Record)",
+    "description": "is a landmark jazz album by John Coltrane, known for its spiritual themes and masterful performances.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Strokes - Is This It (Vinyl Record)",
+    "description": "is the debut studio album by The Strokes, known for its garage rock sound and hits like 'Last Nite' and 'Someday.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Ramones - Ramones (Vinyl Record)",
+    "description": "is the debut studio album by The Ramones, featuring punk rock classics like 'Blitzkrieg Bop' and 'I Wanna Be Your Boyfriend.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Kendrick Lamar - To Pimp a Butterfly (Vinyl Record)",
+    "description": "is the third studio album by Kendrick Lamar, featuring powerful and socially conscious tracks like 'Alright' and 'The Blacker the Berry.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joy Division - Closer (Vinyl Record)",
+    "description": "is the second and final studio album by Joy Division, released shortly after Ian Curtis's death, and featuring tracks like 'Heart and Soul' and 'Isolation.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Jimi Hendrix - Electric Ladyland (Vinyl Record)",
+    "description": "is the third studio album by The Jimi Hendrix Experience, known for its psychedelic and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Notorious B.I.G. - Ready to Die (Vinyl Record)",
+    "description": "is the debut studio album by The Notorious B.I.G., featuring iconic tracks like 'Juicy' and 'Big Poppa.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "R.E.M. - Automatic for the People (Vinyl Record)",
+    "description": "is the eighth studio album by R.E.M., known for its introspective and melancholic tracks like 'Everybody Hurts' and 'Man on the Moon.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Otis Redding - Otis Blue/Otis Redding Sings Soul (Vinyl Record)",
+    "description": "is the third studio album by Otis Redding, showcasing his soulful voice and featuring covers like 'Respect' and 'A Change Is Gonna Come.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joy Division - Substance (Vinyl Record)",
+    "description": "is a compilation album by Joy Division, featuring some of their best-known tracks, including 'Transmission' and 'Love Will Tear Us Apart.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Sticky Fingers (Vinyl Record)",
+    "description": "is the ninth British and 11th American studio album by The Rolling Stones, featuring hits like 'Brown Sugar' and 'Wild Horses.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Neutral Milk Hotel - In the Aeroplane Over the Sea (Vinyl Record)",
+    "description": "is the second studio album by Neutral Milk Hotel, known for its indie folk and lo-fi sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Let It Bleed (Vinyl Record)",
+    "description": "is the eighth British and tenth American studio album by The Rolling Stones, featuring tracks like 'Gimme Shelter' and 'You Can't Always Get What You Want.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Beastie Boys - Paul's Boutique (Vinyl Record)",
+    "description": "is the second studio album by Beastie Boys, known for its innovative sampling and rap rock style.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Velvet Underground - The Velvet Underground (Vinyl Record)",
+    "description": "is the third studio album by The Velvet Underground, featuring tracks like 'Candy Says' and 'What Goes On.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Beggars Banquet (Vinyl Record)",
+    "description": "is the seventh British and ninth American studio album by The Rolling Stones, featuring tracks like 'Sympathy for the Devil' and 'Street Fighting Man.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Radiohead - Kid A (Vinyl Record)",
+    "description": "is the fourth studio album by Radiohead, known for its experimental and electronic sound, with tracks like 'Everything in Its Right Place' and 'Idioteque.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Sly and the Family Stone - There's a Riot Goin' On (Vinyl Record)",
+    "description": "is the fifth studio album by Sly and the Family Stone, known for its funk and psychedelic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The White Stripes - Elephant (Vinyl Record)",
+    "description": "is the fourth studio album by The White Stripes, featuring the hit 'Seven Nation Army' and showcasing their garage rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "OutKast - Aquemini (Vinyl Record)",
+    "description": "is the third studio album by OutKast, known for its blend of hip-hop and soul and featuring tracks like 'Rosa Parks' and 'Skew It on the Bar-B.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Carole King - Tapestry (Vinyl Record)",
+    "description": "is the second studio album by Carole King, featuring hits like 'It's Too Late' and 'You've Got a Friend.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Portishead - Dummy (Vinyl Record)",
+    "description": "is the debut studio album by Portishead, known for its trip-hop and downtempo sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Muddy Waters - Folk Singer (Vinyl Record)",
+    "description": "is the fourth studio album by Muddy Waters, featuring acoustic blues tracks.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Beyoncé - Lemonade (Vinyl Record)",
+    "description": "is the sixth studio album by Beyoncé, known for its blend of R&B, hip-hop, and pop and featuring tracks like 'Formation' and 'Sorry.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Miles Davis - Bitches Brew (Vinyl Record)",
+    "description": "is a double album by Miles Davis, known for its fusion of jazz and rock, and its influential experimentation.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Strokes - Room On Fire (Vinyl Record)",
+    "description": "is the second studio album by The Strokes, featuring tracks like '12:51' and 'Reptilia.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Clash - The Clash (Vinyl Record)",
+    "description": "is the self-titled debut studio album by The Clash, featuring punk rock anthems like 'White Riot' and 'Police & Thieves.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Johnny Cash - Johnny Cash at San Quentin (Vinyl Record)",
+    "description": "is a live album by Johnny Cash, recorded at San Quentin State Prison, and including tracks like 'A Boy Named Sue' and 'San Quentin.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Notorious B.I.G. - Life After Death (Vinyl Record)",
+    "description": "is the second studio album by The Notorious B.I.G., released posthumously, and featuring hits like 'Hypnotize' and 'Mo Money Mo Problems.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Arcade Fire - Funeral (Vinyl Record)",
+    "description": "is the debut studio album by Arcade Fire, known for its indie rock sound and emotional tracks like 'Wake Up' and 'Neighborhood #1 (Tunnels).'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Beatles - Rubber Soul (Vinyl Record)",
+    "description": "is the sixth studio album by The Beatles, showcasing their evolution as songwriters with tracks like 'Norwegian Wood' and 'In My Life.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Amy Winehouse - Frank (Vinyl Record)",
+    "description": "is the debut studio album by Amy Winehouse, featuring her jazz and soul influences.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Smashing Pumpkins - Siamese Dream (Vinyl Record)",
+    "description": "is the second studio album by The Smashing Pumpkins, known for its alternative rock sound and hits like 'Today' and 'Disarm.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Blur - Parklife (Vinyl Record)",
+    "description": "is the third studio album by Blur, known for its Britpop sound and featuring tracks like 'Girls & Boys' and 'Parklife.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Some Girls (Vinyl Record)",
+    "description": "is the 14th British and 16th American studio album by The Rolling Stones, featuring hits like 'Miss You' and 'Beast of Burden.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Rage Against the Machine - Rage Against the Machine (Vinyl Record)",
+    "description": "is the debut studio album by Rage Against the Machine, known for its rap metal sound and politically charged lyrics.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Bob Marley & The Wailers - Legend (Vinyl Record)",
+    "description": "is a compilation album by Bob Marley & The Wailers, featuring reggae classics like 'One Love' and 'Redemption Song.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Cure - Disintegration (Vinyl Record)",
+    "description": "is the eighth studio album by The Cure, known for its gothic rock sound and tracks like 'Lovesong' and 'Pictures of You.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Bob Dylan - Blood on the Tracks (Vinyl Record)",
+    "description": "is the 15th studio album by Bob Dylan, known for its introspective and emotional tracks like 'Tangled Up in Blue' and 'Simple Twist of Fate.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Wilco - Yankee Hotel Foxtrot (Vinyl Record)",
+    "description": "is the fourth studio album by Wilco, known for its alternative rock and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Cure - Pornography (Vinyl Record)",
+    "description": "is the fourth studio album by The Cure, known for its dark and atmospheric sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Out of Our Heads (Vinyl Record)",
+    "description": "is the third British and fourth American studio album by The Rolling Stones, featuring hits like 'Satisfaction' and 'The Last Time.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Notorious B.I.G. - Ready to Die - The Remaster (Vinyl Record)",
+    "description": "is the remastered version of the debut studio album by The Notorious B.I.G., featuring hits like 'Big Poppa' and 'Juicy.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Jay-Z - The Blueprint (Vinyl Record)",
+    "description": "is the sixth studio album by Jay-Z, known for its soul and boom bap influences, and featuring tracks like 'Takeover' and 'Izzo (H.O.V.A.).'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Clash - Sandinista! (Vinyl Record)",
+    "description": "is the fourth studio album by The Clash, known for its experimental and diverse sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Pink Floyd - Animals (Vinyl Record)",
+    "description": "is the tenth studio album by Pink Floyd, featuring progressive rock tracks like 'Dogs' and 'Sheep.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Killers - Hot Fuss (Vinyl Record)",
+    "description": "is the debut studio album by The Killers, featuring alternative rock hits like 'Mr. Brightside' and 'Somebody Told Me.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Tame Impala - Currents (Vinyl Record)",
+    "description": "is the third studio album by Tame Impala, known for its psychedelic and dreamy sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Creedence Clearwater Revival - Chronicle: The 20 Greatest Hits (Vinyl Record)",
+    "description": "is a compilation album by Creedence Clearwater Revival, featuring hits like 'Bad Moon Rising' and 'Fortunate Son.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Talking Heads - Remain in Light (Vinyl Record)",
+    "description": "is the fourth studio album by Talking Heads, known for its new wave and art pop sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Between the Buttons (Vinyl Record)",
+    "description": "is the fifth British and seventh American studio album by The Rolling Stones, featuring tracks like 'Ruby Tuesday' and 'Let's Spend the Night Together.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Flaming Lips - The Soft Bulletin (Vinyl Record)",
+    "description": "is the ninth studio album by The Flaming Lips, known for its psychedelic and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joy Division - Unknown Pleasures - 40th Anniversary Limited Edition (Vinyl Record)",
+    "description": "is the 40th-anniversary limited edition of the debut studio album by Joy Division, known for its post-punk sound and influential tracks like 'Disorder' and 'She's Lost Control.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Radiohead - In Rainbows (Vinyl Record)",
+    "description": "is the seventh studio album by Radiohead, known for its experimental and alternative rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Tame Impala - Lonerism (Vinyl Record)",
+    "description": "is the second studio album by Tame Impala, featuring tracks like 'Feels Like We Only Go Backwards' and 'Elephant.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Wilco - Being There (Vinyl Record)",
+    "description": "is the second studio album by Wilco, featuring tracks like 'Misunderstood' and 'Monday.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Replacements - Let It Be (Vinyl Record)",
+    "description": "is the third studio album by The Replacements, known for its alternative rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Beatles - Sgt. Pepper's Lonely Hearts Club Band (Vinyl Record)",
+    "description": "is the eighth studio album by The Beatles, featuring classics like 'Lucy in the Sky with Diamonds' and 'With a Little Help from My Friends.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Kendrick Lamar - good kid, m.A.A.d city (Vinyl Record)",
+    "description": "is the second studio album by Kendrick Lamar, featuring tracks like 'Swimming Pools (Drank)' and 'Bitch, Don't Kill My Vibe.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Neil Young - After the Gold Rush (Vinyl Record)",
+    "description": "is the third studio album by Neil Young, featuring tracks like 'Southern Man' and 'After the Gold Rush.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Bruce Springsteen - Darkness on the Edge of Town (Vinyl Record)",
+    "description": "is the fourth studio album by Bruce Springsteen, featuring tracks like 'Badlands' and 'The Promised Land.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "LCD Soundsystem - Sound of Silver (Vinyl Record)",
+    "description": "is the second studio album by LCD Soundsystem, known for its dance-punk and electronic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Fleet Foxes - Fleet Foxes (Vinyl Record)",
+    "description": "is the debut studio album by Fleet Foxes, featuring indie folk tracks like 'White Winter Hymnal' and 'Ragged Wood.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "R.E.M. - Murmur (Vinyl Record)",
+    "description": "is the debut studio album by R.E.M., featuring tracks like 'Radio Free Europe' and 'Talk About the Passion.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Tattoo You (Vinyl Record)",
+    "description": "is the 16th British and 18th American studio album by The Rolling Stones, featuring hits like 'Start Me Up' and 'Waiting on a Friend.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Smiths - The Queen Is Dead (Vinyl Record)",
+    "description": "is the third studio album by The Smiths, featuring tracks like 'There Is a Light That Never Goes Out' and 'The Boy with the Thorn in His Side.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Pixies - Doolittle (Vinyl Record)",
+    "description": "is the second studio album by Pixies, featuring alternative rock tracks like 'Monkey Gone to Heaven' and 'Here Comes Your Man.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Pavement - Slanted and Enchanted (Vinyl Record)",
+    "description": "is the debut studio album by Pavement, known for its lo-fi and indie rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Daft Punk - Discovery (Vinyl Record)",
+    "description": "is the second studio album by Daft Punk, featuring tracks like 'One More Time' and 'Harder, Better, Faster, Stronger.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Grimes - Visions (Vinyl Record)",
+    "description": "is the third studio album by Grimes, known for its dreamy and electronic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Neutral Milk Hotel - On Avery Island (Vinyl Record)",
+    "description": "is the debut studio album by Neutral Milk Hotel, featuring indie rock tracks like 'Song Against Sex' and 'Naomi.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Their Satanic Majesties Request (Vinyl Record)",
+    "description": "is the sixth British and eighth American studio album by The Rolling Stones, known for its psychedelic and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Who - Tommy (Vinyl Record)",
+    "description": "is the fourth studio album by The Who, known for its rock opera concept and featuring tracks like 'Pinball Wizard' and 'See Me, Feel Me.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The White Stripes - White Blood Cells (Vinyl Record)",
+    "description": "is the third studio album by The White Stripes, featuring tracks like 'Fell in Love with a Girl' and 'Dead Leaves and the Dirty Ground.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Björk - Homogenic (Vinyl Record)",
+    "description": "is the fourth studio album by Björk, known for its experimental and electronic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Patti Smith - Horses (Vinyl Record)",
+    "description": "is the debut studio album by Patti Smith, featuring the influential track 'Gloria.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Sufjan Stevens - Carrie & Lowell (Vinyl Record)",
+    "description": "is the seventh studio album by Sufjan Stevens, known for its introspective and folk sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Wilco - Yankee Hotel Foxtrot (Vinyl Record)",
+    "description": "is the fourth studio album by Wilco, known for its alternative rock and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Black Keys - Brothers (Vinyl Record)",
+    "description": "is the sixth studio album by The Black Keys, featuring blues-rock tracks like 'Tighten Up' and 'Howlin' for You.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Modest Mouse - The Moon & Antarctica (Vinyl Record)",
+    "description": "is the third studio album by Modest Mouse, known for its indie rock sound and tracks like 'Gravity Rides Everything' and '3rd Planet.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Stone Roses - The Stone Roses (Vinyl Record)",
+    "description": "is the debut studio album by The Stone Roses, featuring tracks like 'I Wanna Be Adored' and 'Waterfall.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Nick Cave & The Bad Seeds - Skeleton Tree (Vinyl Record)",
+    "description": "is the sixteenth studio album by Nick Cave & The Bad Seeds, featuring tracks like 'Jesus Alone' and 'I Need You.'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Flaming Lips - Yoshimi Battles the Pink Robots (Vinyl Record)",
+    "description": "is the tenth studio album by The Flaming Lips, known for its psychedelic and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Massive Attack - Mezzanine (Vinyl Record)",
+    "description": "is the third studio album by Massive Attack, known for its trip-hop and electronic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Portishead - Portishead (Vinyl Record)",
+    "description": "is the second studio album by Portishead, known for its trip-hop and dark sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Television - Marquee Moon (Vinyl Record)",
+    "description": "is the debut studio album by Television, known for its post-punk and art rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Moby - Play (Vinyl Record)",
+    "description": "is the fifth studio album by Moby, known for its blend of electronic, dance, and gospel music.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Cure - Seventeen Seconds (Vinyl Record)",
+    "description": "is the second studio album by The Cure, known for its post-punk and gothic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Kraftwerk - Trans-Europe Express (Vinyl Record)",
+    "description": "is the sixth studio album by Kraftwerk, known for its electronic and experimental sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "MGMT - Oracular Spectacular (Vinyl Record)",
+    "description": "is the debut studio album by MGMT, known for its psychedelic and indie pop sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "New Order - Power, Corruption & Lies (Vinyl Record)",
+    "description": "is the second studio album by New Order, known for its synth-pop and post-punk sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Air - Moon Safari (Vinyl Record)",
+    "description": "is the debut studio album by Air, known for its dreamy and electronic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Sonic Youth - Daydream Nation (Vinyl Record)",
+    "description": "is the fifth studio album by Sonic Youth, known for its alternative rock and noise rock sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Velvet Underground - White Light/White Heat (Vinyl Record)",
+    "description": "is the second studio album by The Velvet Underground, known for its experimental and avant-garde sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Jesus and Mary Chain - Psychocandy (Vinyl Record)",
+    "description": "is the debut studio album by The Jesus and Mary Chain, known for its noise pop and post-punk sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Belle and Sebastian - If You're Feeling Sinister (Vinyl Record)",
+    "description": "is the second studio album by Belle and Sebastian, known for its indie pop and twee sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Interpol - Turn On the Bright Lights (Vinyl Record)",
+    "description": "is the debut studio album by Interpol, known for its post-punk revival sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Mazzy Star - So Tonight That I Might See (Vinyl Record)",
+    "description": "is the second studio album by Mazzy Star, known for its dream pop and psychedelic sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Joy Division - Still (Vinyl Record)",
+    "description": "is a compilation album by Joy Division, featuring live and rare tracks.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "My Bloody Valentine - Loveless (Vinyl Record)",
+    "description": "is the second studio album by My Bloody Valentine, known for its shoegaze and dream pop sound.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Smiths - The Smiths (Vinyl Record)",
+    "description": "is the self-titled debut studio album by The Smiths, featuring tracks like 'This Charming Man' and 'What Difference Does It Make?'",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "Nirvana - MTV Unplugged in New York (Vinyl Record)",
+    "description": "is a live album by Nirvana, recorded for the MTV Unplugged series and featuring acoustic renditions of their songs.",
+    "category": "Vinyl Records"
+  },
+  {
+    "product": "The Rolling Stones - Exile on Main St. (Vinyl Record)",
+    "description": "is the tenth British and 12th American studio album by The Rolling Stones, featuring tracks like 'Tumbling Dice' and 'Rocks Off.'",
+    "category": "Vinyl Records"
+  } 
 ]
