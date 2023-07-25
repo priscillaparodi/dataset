@@ -18817,5 +18817,710 @@
     "product": "The Rolling Stones - Exile on Main St. (Vinyl Record)",
     "description": "is the tenth British and 12th American studio album by The Rolling Stones, featuring tracks like 'Tumbling Dice' and 'Rocks Off.'",
     "category": "Vinyl Records"
-  } 
+  },
+  {
+    "product": "KitchenAid Stand Mixer",
+    "description": "is a versatile kitchen appliance used for mixing, kneading, and whipping various ingredients. It comes with various attachments for different culinary tasks.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Instant Pot Pressure Cooker",
+    "description": "is a multi-functional electric pressure cooker that can also be used as a slow cooker, rice cooker, steamer, and more. It speeds up cooking times and retains flavors.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cuisinart Food Processor",
+    "description": "is a powerful kitchen tool used for slicing, chopping, and pureeing ingredients. It makes food preparation faster and more efficient.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Ninja Blender",
+    "description": "is a high-powered blender that can crush ice, blend fruits, and puree vegetables. It's perfect for making smoothies and soups.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "OXO Good Grips Vegetable Peeler",
+    "description": "is an ergonomic vegetable peeler with a sharp stainless steel blade. It makes peeling fruits and vegetables easy and comfortable.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Microplane Zester/Grater",
+    "description": "is a kitchen tool used for zesting citrus fruits and grating various ingredients like cheese and spices. It provides fine, precise results.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pyrex Glass Measuring Cups",
+    "description": "are durable and heat-resistant measuring cups used for accurately measuring liquid and dry ingredients in the kitchen.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Silicone Spatula Set",
+    "description": "is a set of heat-resistant spatulas ideal for scraping bowls and pans, folding ingredients, and mixing batters.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Digital Kitchen Scale",
+    "description": "is a precise scale used for measuring ingredients by weight, ensuring accurate baking and cooking results.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Tongs",
+    "description": "are versatile gripping tools used for flipping food, serving salads, and handling hot items on the stove or grill.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Mandoline Slicer",
+    "description": "is a slicing tool with adjustable blades, ideal for creating uniform slices of fruits and vegetables.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cast Iron Skillet",
+    "description": "is a durable and versatile kitchen essential used for frying, sautéing, baking, and more. It retains and evenly distributes heat.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Chef's Knife",
+    "description": "is a versatile and sharp knife used for various kitchen tasks, such as chopping, dicing, and slicing.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cutting Board Set",
+    "description": "is a set of durable and hygienic cutting boards in different sizes, suitable for various food preparation needs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Shears",
+    "description": "are multi-purpose scissors used for trimming herbs, cutting poultry, and opening packaging in the kitchen.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Vegetable Spiralizer",
+    "description": "is a tool used to create noodles and ribbons from vegetables, offering a healthy alternative to pasta.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Garlic Press",
+    "description": "is a kitchen tool used to crush garlic cloves quickly and efficiently, releasing their flavors.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Bench Scraper",
+    "description": "is a versatile tool used for cutting and dividing dough, as well as cleaning surfaces and transferring ingredients.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Box Grater",
+    "description": "is a four-sided grater with different blade types for grating cheese, vegetables, and more.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Utensil Set",
+    "description": "is a comprehensive set of essential kitchen tools like spoons, spatulas, and ladles, offering convenience in cooking and serving.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Timer",
+    "description": "is a handy device used to set timers for cooking and baking, ensuring precise cooking times.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Rolling Pin",
+    "description": "is a cylindrical tool used for flattening dough for baking pies, cookies, and pastries.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Apple Corer",
+    "description": "is a tool used to remove the core and seeds from apples, making them easier to slice and eat.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pastry Brush",
+    "description": "is a brush used for applying glazes, oils, and melted butter to pastries and other food items.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Meat Tenderizer",
+    "description": "is a tool used to tenderize meat by breaking down its fibers, resulting in a more tender and flavorful dish.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Candy Thermometer",
+    "description": "is a specialized thermometer used for measuring the temperature of sugar syrups and candy mixtures.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Basting Brush",
+    "description": "is a brush used to coat meat, fish, and vegetables with sauces or marinades during cooking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Potato Masher",
+    "description": "is a tool used to mash cooked potatoes, vegetables, and fruits for making smooth and creamy dishes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pizza Cutter",
+    "description": "is a tool used to slice pizzas quickly and easily, offering even and neat cuts.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Funnel Set",
+    "description": "is a set of funnels used for transferring liquids and dry ingredients into containers without spills.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Separator",
+    "description": "is a device used to separate egg yolks from egg whites, making it easier to use each part in recipes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Salt and Pepper Grinder Set",
+    "description": "is a set of grinders used to freshly grind salt and pepper for seasoning dishes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Citrus Juicer",
+    "description": "is a tool used to extract juice from citrus fruits like lemons, limes, and oranges.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cheese Slicer",
+    "description": "is a tool used for slicing thin and even pieces of cheese for sandwiches and platters.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Tea Infuser",
+    "description": "is a device used to brew loose tea leaves, infusing the hot water with flavors.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Electric Can Opener",
+    "description": "is an automatic can opener that opens cans with ease, eliminating the need for manual effort.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cake Decorating Kit",
+    "description": "is a set of tools used for decorating cakes with icing, frosting, and various designs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Avocado Slicer",
+    "description": "is a tool used to cut, pit, and slice avocados, making it easier to enjoy this nutritious fruit.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Ice Cream Scoop",
+    "description": "is a scooper used for serving ice cream, sorbet, and other frozen desserts.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Cabinet Organizer Set",
+    "description": "is a set of organizers used to tidy up kitchen cabinets and keep cookware and utensils neatly arranged.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Poacher",
+    "description": "is a specialized pan or device used to poach eggs, creating perfectly poached eggs for various dishes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Herb Stripper",
+    "description": "is a tool used to strip leaves from herbs like rosemary and thyme, making herb preparation quick and efficient.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Measuring Spoon Set",
+    "description": "is a set of spoons used for accurately measuring small amounts of ingredients in recipes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pastry Blender",
+    "description": "is a tool used to cut cold butter or shortening into flour for making pie crusts and pastries.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Corn Stripper",
+    "description": "is a tool used to remove corn kernels from the cob, making it easier to use fresh corn in recipes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Bamboo Cutting Board",
+    "description": "is a sustainable and knife-friendly cutting board used for various food preparation tasks.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Can Strainer",
+    "description": "is a device used to strain liquids from canned foods like tuna and vegetables.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Honey Dipper",
+    "description": "is a wooden stick used to drizzle honey onto foods like biscuits and toast.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Corn Holders",
+    "description": "are pronged holders used to grip and enjoy corn on the cob without getting hands messy.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Candy Making Thermometer",
+    "description": "is a thermometer used to measure the temperature of candy mixtures during candy-making.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Rolling Cookie Cutter",
+    "description": "is a kitchen tool used for cutting multiple cookies of the same shape and size.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Stainless Steel Mixing Bowls",
+    "description": "are durable and versatile bowls used for mixing and preparing various ingredients.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Citrus Reamer",
+    "description": "is a tool used to extract juice from citrus fruits by hand.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Ring Mold",
+    "description": "is a ring-shaped mold used to create perfectly shaped fried or poached eggs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Oil Sprayer Bottle",
+    "description": "is a bottle used to spray oil evenly on pans, salads, and other dishes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Bagel Slicer",
+    "description": "is a tool used to slice bagels cleanly and safely.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Strawberry Huller",
+    "description": "is a tool used to remove the stems and hulls from strawberries.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pineapple Corer and Slicer",
+    "description": "is a tool used to core and slice pineapples quickly and easily.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Ice Cube Trays",
+    "description": "are trays used to make ice cubes for chilling beverages.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Watermelon Slicer",
+    "description": "is a tool used to slice watermelon into neat and even pieces.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Apron",
+    "description": "is a protective garment worn while cooking to prevent stains on clothing.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Garlic Keeper",
+    "description": "is a container used to store garlic bulbs and keep them fresh.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Lemon Squeezer",
+    "description": "is a tool used to extract juice from lemons and limes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Turkey Baster",
+    "description": "is a tool used to baste meats with juices or marinades during roasting.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Sausage Stuffer",
+    "description": "is a device used to fill sausage casings with seasoned meat.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Squeeze Bottle Set",
+    "description": "is a set of bottles used for dispensing condiments, sauces, and dressings.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Gravy Separator",
+    "description": "is a vessel used to separate fat from gravy and sauces.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Potato Ricer",
+    "description": "is a tool used to mash cooked potatoes into fine, fluffy texture.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Burger Press",
+    "description": "is a device used to shape and press ground meat into uniform burger patties.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cake Leveler",
+    "description": "is a tool used to level the top of cakes for even stacking and decorating.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Tea Bag Squeezer",
+    "description": "is a tool used to squeeze and remove excess liquid from tea bags.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Milk Frother",
+    "description": "is a device used to froth milk for coffee, lattes, and cappuccinos.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Oil Mister",
+    "description": "is a device used to spray a fine mist of oil for cooking and seasoning.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Basting Set",
+    "description": "is a set of tools used for basting and flavoring meats and poultry.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Kitchen Torch",
+    "description": "is a handheld torch used for caramelizing sugar, toasting meringue, and melting cheese.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Electric Wine Opener",
+    "description": "is an automatic device used to remove corks from wine bottles with ease.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Steamer Rack",
+    "description": "is a rack used for steaming multiple eggs at once, producing perfect soft or hard-boiled eggs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Yolk Separator",
+    "description": "is a tool used to separate egg yolks from egg whites with precision.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Taco Holder",
+    "description": "is a stand used to hold tacos upright for filling and serving.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Food Mill",
+    "description": "is a kitchen tool used to grind and puree soft foods like tomatoes and potatoes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Ladle",
+    "description": "is a long-handled spoon with a deep bowl, used for serving soups and stews.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Candy Funnel",
+    "description": "is a funnel used for filling molds and containers with liquid candy mixtures.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cornbread Stick Pan",
+    "description": "is a pan used to bake cornbread sticks, offering a unique and crispy texture.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Food Dehydrator",
+    "description": "is a device used to remove moisture from fruits, vegetables, and meats, creating dried snacks.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Vegetable Brush",
+    "description": "is a brush used to scrub and clean fruits and vegetables before cooking and eating.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cheese Wire Slicer",
+    "description": "is a tool used to slice through cheese with precision and ease.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Nutcracker",
+    "description": "is a tool used to crack open nuts and retrieve the edible kernels.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Carton Holder",
+    "description": "is a holder used for organizing and storing eggs in the refrigerator.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Salad Spinner",
+    "description": "is a device used to wash and dry salad greens and vegetables.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Collapsible Colander",
+    "description": "is a collapsible strainer used for draining pasta, vegetables, and more.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Mortar and Pestle",
+    "description": "is a tool used to crush and grind spices, herbs, and other ingredients.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cupcake Corer",
+    "description": "is a tool used to core cupcakes, making space for fillings and toppings.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Meatball Maker",
+    "description": "is a device used to shape and form meatballs quickly and uniformly.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Batter Dispenser",
+    "description": "is a dispenser used for pouring pancake and waffle batter neatly and precisely.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Garlic Roaster",
+    "description": "is a vessel used to roast whole garlic bulbs, creating a sweet and flavorful garlic spread.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Poultry Lifter",
+    "description": "is a device used to lift and transport poultry from the roasting pan to the serving platter.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Bread Proofing Basket",
+    "description": "is a basket used for proofing and shaping bread dough, creating artisanal loaves.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Lemon Zester",
+    "description": "is a tool used to remove zest from citrus fruits for adding flavor to dishes and desserts.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cheese Grater",
+    "description": "is a tool used to grate cheese into fine shreds for various dishes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Salad Dressing Shaker",
+    "description": "is a container used to mix and store homemade salad dressings.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Apple Peeler",
+    "description": "is a device used to peel, core, and slice apples with ease.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pasta Drying Rack",
+    "description": "is a rack used to dry freshly made pasta before cooking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Piercer",
+    "description": "is a tool used to pierce a small hole in the eggshell before boiling to prevent cracking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cake Tester",
+    "description": "is a tool used to test the doneness of cakes and cupcakes while baking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Culinary Torch",
+    "description": "is a handheld torch used for caramelizing sugar, torching meringue, and browning casseroles.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Oil and Vinegar Dispenser Set",
+    "description": "is a set of dispensers used to pour and store oil and vinegar for salads and cooking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pie Weight Chain",
+    "description": "is a chain used to weigh down pie crusts while baking to prevent shrinking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cheese Board and Knife Set",
+    "description": "is a set that includes a serving board and cheese knives, perfect for entertaining.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Herb Scissors",
+    "description": "are scissors with multiple blades used for quickly cutting herbs into fine pieces.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Oil Filter Funnel",
+    "description": "is a funnel used for filtering and transferring oil from one container to another.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Ravioli Stamp",
+    "description": "is a tool used to create decorative edges and seal ravioli and other stuffed pasta.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Meat Shredding Claws",
+    "description": "are claws used for shredding and pulling apart cooked meat like pulled pork and chicken.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Adjustable Rolling Pin",
+    "description": "is a rolling pin with adjustable thickness rings, ideal for precise rolling of dough.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cherry Pitter",
+    "description": "is a tool used to remove pits from cherries, making them ready for cooking and snacking.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cake Lifter",
+    "description": "is a flat, wide tool used to lift and transfer cakes to serving plates.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Apple Slicer and Corer",
+    "description": "is a tool used to slice and core apples in one swift motion.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Herb Keeper",
+    "description": "is a container used to store and keep herbs fresh for longer periods.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Strawberry Slicer",
+    "description": "is a tool used to slice strawberries quickly and uniformly.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pancake Ring Mold",
+    "description": "is a mold used to shape and cook perfectly round and uniform pancakes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Mold",
+    "description": "is a mold used to shape hard-boiled eggs into fun and creative designs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Spoon Rest",
+    "description": "is a rest used to hold spoons and other utensils while cooking to keep countertops clean.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Butter Churn",
+    "description": "is a device used to make homemade butter from cream.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Biscuit Cutter Set",
+    "description": "is a set of circular cutters used to cut dough for biscuits, cookies, and more.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Cube Maker",
+    "description": "is a mold used to shape boiled eggs into cubes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Batter Bowl",
+    "description": "is a large bowl with a pour spout used for mixing and pouring batter.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Butter Spreader",
+    "description": "is a tool used to spread butter on bread and toast.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pastry Wheel",
+    "description": "is a tool used for cutting and decorating pastry edges.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pickle Picker",
+    "description": "is a tool used for retrieving pickles and olives from jars.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cabbage Shredder",
+    "description": "is a tool used to shred cabbage for coleslaw and salads.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Electric Peeler",
+    "description": "is an automatic peeler that quickly peels fruits and vegetables.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Butter Mold",
+    "description": "is a mold used to shape and mold homemade butter.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Tomato Slicer",
+    "description": "is a tool used to slice tomatoes evenly and easily.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cucumber Spiralizer",
+    "description": "is a tool used to spiralize cucumbers into fun and decorative shapes.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Pineapple Slicer and Corer",
+    "description": "is a tool used to slice and core pineapples effortlessly.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Lattice Pie Cutter",
+    "description": "is a cutter used to create decorative lattice patterns for pie crusts.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Corn Zipper",
+    "description": "is a tool used to remove corn kernels from the cob with ease.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Garlic Slicer",
+    "description": "is a tool used to slice garlic cloves evenly and thinly.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Cake Server",
+    "description": "is a server with a serrated edge used to slice and serve cake.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Egg Beater",
+    "description": "is a manual tool used for beating and whisking eggs.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Strainer Ladle",
+    "description": "is a ladle with holes used for straining and serving foods.",
+    "category": "Kitchen Utensils & Gadgets"
+  },
+  {
+    "product": "Bread Bag Clips",
+    "description": "are clips used for sealing and preserving bread freshness.",
+    "category": "Kitchen Utensils & Gadgets"
+  }    
 ]
