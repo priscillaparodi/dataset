@@ -3093,5 +3093,1944 @@
         "product": "Sapiens: A Brief History of Humankind",
         "description": "is a thought-provoking book that explores the history of Homo sapiens and the evolution of human societies.",
         "category": "Books"
-    }
+    },
+  {
+    "product": "Nike Air Zoom Pegasus 38 Running Shoes",
+    "description": "are high-performance running shoes with responsive cushioning and a comfortable fit, perfect for daily training and long-distance running.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Adidas Predator Freak Soccer Cleats",
+    "description": "are soccer cleats designed for enhanced control and precision on the field, featuring innovative technology for better ball handling.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Wilson Pro Staff RF97 Tennis Racquet",
+    "description": "is a top-tier tennis racquet designed in collaboration with Roger Federer, offering excellent power and control for advanced players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Rawlings Heart of the Hide Baseball Glove",
+    "description": "is a high-quality baseball glove made from premium leather, providing superior performance and durability for serious ballplayers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Mizuno Wave Lightning Z6 Volleyball Shoes",
+    "description": "are lightweight and supportive volleyball shoes, designed for agile movements and exceptional traction on indoor courts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Bauer Vapor X2.9 Ice Hockey Skates",
+    "description": "are ice hockey skates featuring a comfortable fit and excellent performance for players of all levels.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Garmin Forerunner 945 GPS Watch",
+    "description": "is a high-end GPS watch for runners, triathletes, and outdoor enthusiasts, packed with advanced features for tracking performance and navigation.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Titleist Pro V1 Golf Balls",
+    "description": "are premium golf balls known for their exceptional distance, control, and feel, favored by many professional golfers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Yonex Voltric Z Force II Badminton Racket",
+    "description": "is a powerful badminton racket designed for aggressive players, offering a combination of speed and precision.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Bowflex SelectTech 552 Adjustable Dumbbells",
+    "description": "are space-saving dumbbells with adjustable weight settings, ideal for strength training workouts at home.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Easton Ghost Advanced Fastpitch Softball Bat",
+    "description": "is a high-performance softball bat with a balanced swing and advanced technology for increased power and responsiveness.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Suunto 9 Baro GPS Multisport Watch",
+    "description": "is a rugged GPS watch designed for outdoor adventures, featuring long battery life and essential navigation tools.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Stiga Evolution Table Tennis Racket",
+    "description": "is a professional-grade table tennis racket with excellent control and spin capabilities, perfect for competitive play.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Gaiam Essentials Thick Yoga Mat",
+    "description": "is a comfortable and durable yoga mat with extra thickness for joint support during yoga and fitness workouts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Under Armour Highlight Football Cleats",
+    "description": "are football cleats with a supportive fit and excellent traction, designed for quick cuts and explosive movements on the field.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Salomon X-Pro 100 Ski Boots",
+    "description": "are high-performance ski boots with a customizable fit, providing excellent power transfer and control on the slopes.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "RipStik Caster Board",
+    "description": "is a unique skateboard-like caster board, allowing riders to twist and carve for a surfing-like experience on land.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Elevation Training Mask 2.0",
+    "description": "is a respiratory training mask designed to simulate high-altitude conditions, helping athletes improve endurance and lung capacity.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Cressi Leonardo Dive Computer",
+    "description": "is a dive computer for scuba divers, providing essential information such as depth, dive time, and decompression data.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Everlast Powercore Freestanding Heavy Bag",
+    "description": "is a durable freestanding heavy bag for boxing and martial arts training, providing a realistic striking experience.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Giro Syntax MIPS Road Bike Helmet",
+    "description": "is a high-quality road bike helmet featuring MIPS technology for added protection against rotational forces during impacts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Riedell Dart Roller Skates",
+    "description": "are stylish and comfortable roller skates suitable for both indoor and outdoor skating.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Stott Pilates Stability Ball",
+    "description": "is a durable stability ball used for core strengthening exercises and improving balance and flexibility.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Victorinox Swiss Army Pocket Knife",
+    "description": "is a versatile and compact pocket knife with multiple tools, perfect for outdoor activities and emergencies.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Thule Apex XT Hitch Mount Bike Rack",
+    "description": "is a high-quality bike rack that securely holds multiple bikes during transportation, compatible with most vehicles.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Black Diamond Momentum Climbing Harness",
+    "description": "is a comfortable and lightweight climbing harness designed for both beginners and experienced climbers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Callaway Rogue X Iron Set",
+    "description": "is a set of premium golf irons designed for distance, forgiveness, and accuracy on the golf course.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Arena Cobra Ultra Swim Goggles",
+    "description": "are high-performance swim goggles with excellent visibility and a comfortable seal, perfect for competitive swimmers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "G-Form Pro-X Knee Pads",
+    "description": "are lightweight and flexible knee pads designed to provide impact protection for various sports and activities.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Stamina InMotion Compact Strider",
+    "description": "is a compact elliptical trainer, ideal for low-impact workouts and maintaining an active lifestyle at home or the office.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Speedo Fastskin Elite Swim Cap",
+    "description": "is a hydrodynamic swim cap designed for reduced drag and enhanced speed during competitive swimming.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "A&R Hockey Stick Bag",
+    "description": "is a durable and spacious hockey stick bag, designed for convenient transportation and protection of hockey sticks.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Aqua Sphere Seal Swim Mask",
+    "description": "is a comfortable and leak-resistant swim mask, offering a wide field of vision for snorkeling and swimming.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Bear Archery Cruzer G2 Compound Bow",
+    "description": "is a versatile and adjustable compound bow suitable for archers of all ages and skill levels.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Fischer RCS Skate Ski",
+    "description": "is a high-performance skate ski, offering excellent glide and stability for cross-country skiers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Rawlings Velo Youth Baseball Bat",
+    "description": "is a lightweight and powerful youth baseball bat, designed to help young players improve their hitting performance.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Schwinn 470 Elliptical Machine",
+    "description": "is a feature-rich elliptical machine with multiple workout programs and resistance levels, suitable for full-body workouts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Babolat Pure Aero Tennis Racquet",
+    "description": "is a popular tennis racquet known for its spin-friendly design and power, preferred by many professional players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Adidas Adizero Football Gloves",
+    "description": "are lightweight and flexible football gloves with excellent grip and breathability, enhancing players' ball control.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Body-Solid Powerline Power Rack",
+    "description": "is a sturdy and versatile power rack for weightlifting and strength training exercises, suitable for home gyms.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Burton Custom Flying V Snowboard",
+    "description": "is a versatile and responsive snowboard, offering excellent performance in various snow conditions.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Cannondale Trail 5 Mountain Bike",
+    "description": "is a durable and agile mountain bike, designed for off-road adventures and trail riding.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Easton E610W Wheeled Baseball Bag",
+    "description": "is a spacious and durable baseball bag with wheels, offering convenient storage and transportation for baseball gear.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Fjallraven Kanken Classic Backpack",
+    "description": "is a stylish and durable backpack, perfect for outdoor activities, travel, and daily use.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "GoPro Hero 9 Black",
+    "description": "is a high-quality action camera with 5K video recording and advanced features for capturing exciting sports moments.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Lamar MX200 Snowboard Bindings",
+    "description": "are comfortable and responsive snowboard bindings, offering excellent control and performance on the slopes.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Mikasa VX20 Beach Volleyball",
+    "description": "is a professional-grade beach volleyball with a soft touch and excellent durability, suitable for competitive play.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Penn Championship Tennis Balls",
+    "description": "are high-quality tennis balls used in professional tournaments, providing consistent bounce and performance.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Razor A5 Lux Kick Scooter",
+    "description": "is a foldable and lightweight kick scooter, ideal for commuting and cruising around the neighborhood.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "SKLZ Quickster Soccer Goal",
+    "description": "is a portable and easy-to-set-up soccer goal, suitable for training and backyard games.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Taylormade SIM2 Max Driver",
+    "description": "is a high-performance golf driver with advanced technology for increased distance and forgiveness off the tee.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "TriggerPoint GRID Foam Roller",
+    "description": "is a popular foam roller designed for self-massage and muscle recovery after workouts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Wilson NCAA Basketball",
+    "description": "is an official NCAA basketball used in college and high school basketball games, offering excellent grip and performance.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Yonex EZONE 100 Tennis Racquet",
+    "description": "is a powerful and maneuverable tennis racquet suitable for players who seek extra spin and control.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "K2 F.I.T. 84 Boa Inline Skates",
+    "description": "are comfortable and adjustable inline skates, perfect for recreational skating and fitness workouts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Body Glove Performer 11 Inflatable Stand Up Paddle Board",
+    "description": "is a versatile and stable inflatable SUP board, suitable for paddling in various water conditions.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Bell Super 3R MIPS Mountain Bike Helmet",
+    "description": "is a versatile mountain bike helmet with removable chin bar, providing extra protection for aggressive trail riding.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Everlast Pro Style Boxing Gloves",
+    "description": "are classic and durable boxing gloves, suitable for sparring and bag work in boxing and martial arts training.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Gamma Sports Pro Tennis Stringer",
+    "description": "is a professional-grade tennis stringer, allowing players to customize the tension of their tennis racquet strings.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Harrow Stealth Lacrosse Stick",
+    "description": "is a high-performance lacrosse stick designed for precision shooting and ball control on the field.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "JBL Flip 5 Portable Bluetooth Speaker",
+    "description": "is a rugged and waterproof Bluetooth speaker, providing excellent sound quality for outdoor activities and workouts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Louisville Slugger Omaha Baseball Bat",
+    "description": "is a balanced and durable baseball bat, ideal for hitters seeking a traditional feel and performance.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Molten Official Volleyball",
+    "description": "is an official FIVB volleyball, providing superior performance and durability for competitive volleyball play.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Nike Mercurial Superfly Football Boots",
+    "description": "are football boots known for their lightweight design and traction, favored by many professional soccer players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Osprey Talon 22 Hiking Backpack",
+    "description": "is a lightweight and comfortable hiking backpack with multiple storage compartments and hydration compatibility.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Prince Team Beast Squash Racquet",
+    "description": "is a powerful squash racquet with excellent control and stability, suitable for competitive squash players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Roces Compy 8.0 Adjustable Inline Skates",
+    "description": "are adjustable inline skates for kids, offering a comfortable and supportive fit as they grow.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Schwinn Meridian Adult Tricycle",
+    "description": "is a comfortable and stable adult tricycle, perfect for leisurely rides and errands.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "TaylorMade Spider X Putter",
+    "description": "is a high-performance golf putter with advanced alignment technology for improved accuracy on the greens.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Under Armour Triumph Catcher's Gear Set",
+    "description": "is a complete catcher's gear set, offering excellent protection and comfort for baseball and softball catchers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Wilson AVP Beach Volleyball",
+    "description": "is the official AVP beach volleyball, designed for professional and recreational beach volleyball play.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Xtreme Power US Pool Cue",
+    "description": "is a high-quality pool cue for players seeking precision and control in billiards games.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Yonex Nanoflare 700 Badminton Racket",
+    "description": "is a lightweight and maneuverable badminton racket with a fast and powerful swing.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Z-Flex Pintail Longboard Skateboard",
+    "description": "is a classic pintail longboard, perfect for smooth cruising and carving.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "7'2\" Softech Bomber Soft Surfboard",
+    "description": "is a soft and stable surfboard, suitable for beginner and intermediate surfers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Arachnid Cricket Pro 800 Electronic Dartboard",
+    "description": "is an electronic dartboard with multiple game options and scoring features, suitable for competitive darts play.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Bownet Portable Lacrosse Goal",
+    "description": "is a collapsible and portable lacrosse goal, easy to set up for practice and training sessions.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "CAMELBAK M.U.L.E. Hydration Pack",
+    "description": "is a versatile hydration pack for outdoor adventures, providing easy access to water and gear storage.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "DeMarini CF Zen Youth Baseball Bat",
+    "description": "is a high-performance youth baseball bat, designed for improved bat speed and hitting distance.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Epic Skates Engage 3-Wheel Inline Speed Skates",
+    "description": "are fast and stable inline speed skates, perfect for inline racing and high-speed skating.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "FITINDEX Electric Handheld Percussion Massage Gun",
+    "description": "is a portable and powerful percussion massage gun, perfect for post-workout muscle recovery.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Grit Inc. GT3 Hockey Tower Bag",
+    "description": "is a spacious and durable hockey bag with wheels, offering convenient storage and transportation for hockey equipment.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Hayabusa T3 Boxing Gloves",
+    "description": "are high-quality boxing gloves with excellent wrist support and impact protection, favored by professional boxers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Innova Champion Teebird Golf Disc",
+    "description": "is a versatile and reliable golf disc, suitable for both beginner and advanced disc golf players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Jaybird Vista True Wireless Sport Earbuds",
+    "description": "are wireless earbuds designed for sports and workouts, providing excellent sound quality and a secure fit.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "K2 F.I.T. Pro 84 Inline Skates",
+    "description": "are comfortable and supportive inline skates, ideal for fitness skating and urban commutes.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Landyachtz Drop Cat Longboard Skateboard",
+    "description": "is a drop-through longboard with a stable and smooth ride, suitable for downhill and freeride longboarding.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Mitre Ultimatch Soccer Ball",
+    "description": "is a high-quality soccer ball used in competitive matches, offering excellent flight and durability.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Nike Phantom GT Elite Football Boots",
+    "description": "are football boots known for their excellent fit and control, preferred by many professional soccer players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "O'Brien Voodoo Kneeboard",
+    "description": "is a high-performance kneeboard with a contoured design, suitable for experienced kneeboarders.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Prince Textreme Beast 100 Tennis Racquet",
+    "description": "is a versatile and powerful tennis racquet with a comfortable feel and precision control.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Rip Curl Dawn Patrol Wetsuit",
+    "description": "is a high-quality wetsuit for surfing and water sports, providing excellent insulation and flexibility.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "STX Stallion 200 Lacrosse Starter Set",
+    "description": "is a complete lacrosse starter set for beginners, including stick, gloves, and protective gear.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Thule RoundTrip Ski Bag",
+    "description": "is a durable and padded ski bag, perfect for transporting and protecting ski equipment during travel.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Under Armour Glyde TPU Softball Cleats",
+    "description": "are softball cleats designed for traction and comfort on the diamond, perfect for softball players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Venum Challenger 2.0 Boxing Gloves",
+    "description": "are durable and affordable boxing gloves, suitable for training and sparring in boxing and MMA.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Wilson Burn 100 Tennis Racquet",
+    "description": "is a powerful and spin-friendly tennis racquet, suitable for aggressive players who like to attack.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "XTRATUF Legacy Series 15\" Neoprene Fishing Boots",
+    "description": "are durable and waterproof fishing boots, perfect for anglers and boaters.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "YETI Roadie 24 Cooler",
+    "description": "is a compact and durable cooler, suitable for keeping drinks and food cold during outdoor adventures.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Zepp Golf 2 3D Swing Analyzer",
+    "description": "is a golf swing analyzer that provides real-time data and insights to improve your golf game.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "AIRE Lynx Inflatable Kayak",
+    "description": "is a versatile and stable inflatable kayak, suitable for paddling on rivers and calm waters.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Babolat Pure Strike Tennis Racquet",
+    "description": "is a control-oriented tennis racquet, offering excellent precision and feel for advanced players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Casio Pro Trek PRW-3500T-7CR Solar Watch",
+    "description": "is a rugged and feature-packed outdoor watch, offering essential functions for hiking, camping, and adventures.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Dakine SUP Coiled Ankle Leash",
+    "description": "is a coiled ankle leash for stand-up paddleboarding, providing safety and keeping the board close in case of a fall.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Ebonite Maxim Bowling Ball",
+    "description": "is a colorful and entry-level bowling ball, suitable for recreational and casual bowling.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Fischer RC4 Worldcup GS Ski",
+    "description": "is a high-performance GS ski, designed for aggressive turns and fast skiing on groomed slopes.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Gill Race Team Sailing Gloves",
+    "description": "are lightweight and durable sailing gloves, offering grip and protection for sailors.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "High Sierra Loop Backpack",
+    "description": "is a versatile and spacious backpack, perfect for carrying gear and essentials during outdoor activities.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Intex Challenger K2 Kayak",
+    "description": "is an inflatable tandem kayak, suitable for recreational paddling on lakes and rivers.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "JBL Endurance DIVE Waterproof MP3 Player",
+    "description": "is a waterproof MP3 player with built-in earbuds, perfect for listening to music while swimming or water sports.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Kirschbaum Pro Line II Tennis String",
+    "description": "is a high-quality tennis string known for its durability and playability, preferred by many professional players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Lezyne Super GPS Bike Computer",
+    "description": "is a feature-rich bike computer with GPS tracking and navigation, perfect for cycling enthusiasts.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Maverik Wonderboy Lacrosse Shaft",
+    "description": "is a lightweight and durable lacrosse shaft, offering excellent grip and performance for lacrosse players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Nike Pro Combat Hyperstrong Football Girdle",
+    "description": "is a protective football girdle with padding, providing impact protection for players on the field.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "O'Neill Reactor 3/2 Wetsuit",
+    "description": "is a versatile and affordable wetsuit, suitable for various water sports and activities.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Pelican Premium Strike 120X Kayak",
+    "description": "is a sit-on-top kayak with excellent stability and tracking, suitable for recreational paddling and fishing.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Quiksilver Highline Pro 1mm Wetsuit Jacket",
+    "description": "is a lightweight wetsuit jacket, perfect for added warmth during surfing and water sports.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Rave Sports Water Whoosh Inflatable Mat",
+    "description": "is a fun and inflatable water mat, suitable for water play and relaxation at the lake or pool.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Sidas Winter 3Feet Mid Ski Boot Insoles",
+    "description": "are high-quality ski boot insoles, providing comfort and support for skiing and snowboarding.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Tecnifibre Carboflex 125 Squash Racquet",
+    "description": "is a lightweight and powerful squash racquet, preferred by many professional squash players.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Under Armour Undeniable Duffle Bag",
+    "description": "is a spacious and durable duffle bag, perfect for carrying sports gear and essentials.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Viking Axiom Pickleball Paddle",
+    "description": "is a popular pickleball paddle, offering a balanced mix of power and control on the pickleball court.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Werner Camano Premium Fiberglass Kayak Paddle",
+    "description": "is a high-quality kayak paddle, designed for efficiency and performance during paddling.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Xcel Infiniti 4/3mm Wetsuit",
+    "description": "is a versatile and warm wetsuit, suitable for surfing and water sports in cool water temperatures.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Yonex Nanoray 10 Badminton Racket",
+    "description": "is a lightweight and fast badminton racket, offering easy handling and maneuverability.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Zoggs Predator Flex Polarized Swim Goggles",
+    "description": "are polarized swim goggles with UV protection, reducing glare and providing clear vision in the water.",
+    "category": "Sports Equipment"
+  },
+  {
+    "product": "Fenty Beauty Pro Filt'r Soft Matte Longwear Foundation",
+    "description": "is a long-lasting and buildable foundation with a soft matte finish, available in a wide range of shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Modern Renaissance Eyeshadow Palette",
+    "description": "is a highly pigmented eyeshadow palette featuring a mix of neutral and bold shades, perfect for creating versatile eye looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Radiant Creamy Concealer",
+    "description": "is a creamy and radiant concealer that provides medium to full coverage, perfect for concealing imperfections.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Better Than Sex Mascara",
+    "description": "is a volumizing and lengthening mascara, giving lashes a dramatic and bold look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay All Nighter Long-Lasting Makeup Setting Spray",
+    "description": "is a weightless and oil-free setting spray that keeps makeup in place for up to 16 hours.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Huda Beauty Desert Dusk Eyeshadow Palette",
+    "description": "is an eyeshadow palette featuring a range of stunning shades inspired by desert landscapes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Ruby Woo Matte Lipstick",
+    "description": "is a classic and iconic matte red lipstick, favored by many for its long-lasting formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Hoola Matte Bronzer",
+    "description": "is a cult-favorite matte bronzer that adds warmth and dimension to the face.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Shape Tape Contour Concealer",
+    "description": "is a full-coverage concealer that works great for brightening and contouring the face.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Pillow Talk Matte Revolution Lipstick",
+    "description": "is a universally flattering matte lipstick in a soft, pinkish-nude shade.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Killawatt Freestyle Highlighter",
+    "description": "is a shimmering highlighter duo that adds a luminous glow to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Brow Wiz",
+    "description": "is a ultra-slim eyebrow pencil with a fine tip, perfect for defining and filling in brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Sweet Peach Eyeshadow Palette",
+    "description": "is a peach-scented eyeshadow palette with a mix of beautiful peachy and neutral shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Huda Beauty Faux Filter Foundation",
+    "description": "is a high-coverage foundation that gives a flawless and airbrushed look to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked3 Eyeshadow Palette",
+    "description": "is a rose-hued eyeshadow palette, featuring a variety of romantic shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Orgasm Blush",
+    "description": "is a cult-favorite blush with a peachy-pink hue and golden shimmer.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Prep + Prime Fix+ Finishing Mist",
+    "description": "is a hydrating and refreshing setting spray that sets makeup and gives the skin a dewy finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Roller Lash Mascara",
+    "description": "is a curling and lifting mascara that adds length and volume to the lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Amazonian Clay 12-Hour Blush",
+    "description": "is a long-wearing blush with a silky texture, available in a variety of beautiful shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Filmstar Bronze & Glow Contour Duo",
+    "description": "is a contour and highlighter duo that sculpts and illuminates the face.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Gloss Bomb Universal Lip Luminizer",
+    "description": "is a non-sticky lip gloss with a beautiful shine, suitable for all skin tones.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Soft Glam Eyeshadow Palette",
+    "description": "is a versatile eyeshadow palette featuring soft and neutral shades for everyday wear.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Matte Foundation",
+    "description": "is a oil-free and full-coverage foundation that provides a natural matte finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Vice Lipstick",
+    "description": "is a creamy and pigmented lipstick with a vast range of shades and finishes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Laguna Bronzing Powder",
+    "description": "is a cult-favorite bronzer with a subtle shimmer, ideal for a sun-kissed look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Studio Fix Powder Plus Foundation",
+    "description": "is a two-in-one powder foundation that provides matte coverage and sets makeup.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Goof Proof Brow Pencil",
+    "description": "is an easy-to-use brow pencil with a teardrop-shaped tip, perfect for filling in and shaping brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Tartelette In Bloom Clay Eyeshadow Palette",
+    "description": "is an eyeshadow palette with a mix of neutral and warm shades, suitable for creating various eye looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Matte Revolution Lipstick",
+    "description": "is a matte lipstick with a comfortable and long-wearing formula, available in a range of beautiful shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Match Stix Matte Skinstick",
+    "description": "is a magnetized matte stick that can be used for concealing, contouring, and highlighting.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Sugar Glow Kit",
+    "description": "is a highlighting palette with four luminous shades, perfect for creating a radiant glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Chocolate Soleil Matte Bronzer",
+    "description": "is a cocoa-infused matte bronzer that smells like chocolate and adds warmth to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Heat Eyeshadow Palette",
+    "description": "is an eyeshadow palette with warm and fiery shades, perfect for creating sultry looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Sheer Glow Foundation",
+    "description": "is a sheer and glowing foundation that provides a natural and radiant complexion.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Satin Lipstick",
+    "description": "is a satin-finish lipstick with a smooth and comfortable formula, available in a variety of shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Hoola Lite Matte Bronzer",
+    "description": "is a lighter version of the classic Hoola bronzer, ideal for fair skin tones.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Amazonian Clay Waterproof Brow Pencil",
+    "description": "is a waterproof brow pencil with a slanted tip, perfect for creating defined and natural-looking brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Flawless Finish Setting Powder",
+    "description": "is a finely milled setting powder that blurs imperfections and gives the skin a smooth finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Flyliner Longwear Liquid Eyeliner",
+    "description": "is a precise and long-wearing liquid eyeliner with a fine tip for easy application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Amrezy Highlighter",
+    "description": "is a limited-edition highlighter with a radiant champagne-gold shimmer.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Perfect Comfort Matte Foundation",
+    "description": "is a comfortable matte foundation infused with peach and sweet fig cream.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Reloaded Eyeshadow Palette",
+    "description": "is an updated version of the original Naked palette, featuring neutral and versatile shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Lip Pencil",
+    "description": "is a creamy and matte lip pencil that delivers rich and saturated color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Mineralize Skinfinish Highlighter",
+    "description": "is a luxurious highlighter with a velvety smooth texture, perfect for adding a luminous glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics They're Real! Lengthening Mascara",
+    "description": "is a lengthening mascara that adds dramatic length and volume to the lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Lights, Camera, Splashes Waterproof Mascara",
+    "description": "is a waterproof mascara that provides length and volume without smudging or clumping.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Luxury Eyeshadow Palette",
+    "description": "is a luxury eyeshadow quad with finely-milled shades that blend effortlessly.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Snap Shadows Mix & Match Eyeshadow Palette",
+    "description": "is a customizable eyeshadow palette with six shades that can be mixed and matched.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Liquid Lipstick",
+    "description": "is a long-wearing and matte liquid lipstick with intense color payoff.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Perfect Instant Coverage Concealer",
+    "description": "is a full-coverage concealer with a matte finish, perfect for covering imperfections and blemishes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Perversion Waterproof Fine-Point Eye Pen",
+    "description": "is a waterproof and precise eyeliner pen for creating bold and defined eye looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Dual-Intensity Blush",
+    "description": "is a versatile blush duo with buildable color and a luminous finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Eye Kohl",
+    "description": "is a soft and creamy eye pencil that can be used for lining and smudging.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Brow Highlight & Lift Pencil",
+    "description": "is a creamy and matte highlighter pencil, perfect for brightening the brow bone.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Bronzer",
+    "description": "is a cream bronzer that blends seamlessly for a natural and sun-kissed look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Hollywood Flawless Filter",
+    "description": "is a versatile complexion booster that adds a soft-focus glow to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Blush",
+    "description": "is a creamy and buildable blush with a lightweight and sweat-resistant formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Norvina Pro Pigment Palette Vol. 3",
+    "description": "is a pro-level eyeshadow palette with 25 high-performance shades in a range of finishes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Super Coverage Multi-Use Sculpting Concealer",
+    "description": "is a high-coverage concealer that works great for contouring and concealing dark circles.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Cherry Eyeshadow Palette",
+    "description": "is an eyeshadow palette with a mix of cherry-inspired shades, perfect for creating romantic looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Powermatte Lip Pigment",
+    "description": "is a liquefied matte lipstick with a weightless and smudge-resistant formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Retro Matte Lipstick",
+    "description": "is a retro matte-finish lipstick that delivers bold and vibrant color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Watts Up! Cream Highlighter",
+    "description": "is a cream highlighter stick with a soft-focus effect, perfect for adding a luminous glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Amazonian Clay 16-Hour Full Coverage Foundation",
+    "description": "is a full-coverage foundation with a matte finish, suitable for all skin types.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury K.I.S.S.I.N.G Lipstick",
+    "description": "is a moisturizing and creamy lipstick with a luminous finish, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Gloss Bomb Cream Color Drip Lip Cream",
+    "description": "is a creamy lip gloss that delivers smooth and non-sticky color with a high-shine finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Brow Definer",
+    "description": "is a triangular-tipped brow pencil for creating precise and defined brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Sweetie Pie Radiant Matte Bronzer",
+    "description": "is a radiant matte bronzer with a mix of shades for a natural and sun-kissed look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Stay Naked Weightless Liquid Foundation",
+    "description": "is a medium to full-coverage foundation that feels lightweight and breathable on the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Soft Matte Complete Concealer",
+    "description": "is a high-coverage and matte concealer that blurs imperfections and blemishes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Fix+ Magic Radiance Setting Spray",
+    "description": "is a hydrating setting spray infused with pearlescent particles for a radiant glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Roller Liner Liquid Eyeliner",
+    "description": "is a waterproof and precise liquid eyeliner with a fine tip for easy application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Shape Tape Ultra Creamy Concealer",
+    "description": "is a creamy concealer with a natural matte finish, suitable for brightening the under-eye area.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Matte Revolution Mini Lipstick Set",
+    "description": "is a set of mini matte lipsticks in universally flattering shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Snap Shadows Mix & Match Eyeshadow Palette Mini",
+    "description": "is a mini version of the customizable eyeshadow palette with six shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Luminous Foundation",
+    "description": "is a luminous and medium-coverage foundation that leaves the skin with a radiant finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Better Than Sex Waterproof Mascara",
+    "description": "is a waterproof version of the iconic Better Than Sex mascara, providing volume and length.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Honey Eyeshadow Palette",
+    "description": "is an eyeshadow palette with golden and warm shades inspired by honey.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Audacious Lipstick",
+    "description": "is a bold and pigmented lipstick with a satin finish, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Paint Pot",
+    "description": "is a long-wearing cream eyeshadow that can be used as a base or worn alone.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Precisely, My Brow Pencil Ultra-Fine Shape & Define",
+    "description": "is an ultra-fine brow pencil with a precise tip, perfect for drawing hair-like strokes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Maracuja Tinted Hydrator",
+    "description": "is a tinted moisturizer with buildable coverage and a hydrating formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Luxury Palette",
+    "description": "is a luxurious eyeshadow quad with a mix of matte and shimmering shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Eaze Drop Blurring Skin Tint",
+    "description": "is a lightweight and blurring skin tint that evens out the skin tone.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Carli Bybel Palette",
+    "description": "is a versatile eyeshadow palette in collaboration with YouTuber Carli Bybel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Multi-Use Complexion Powder",
+    "description": "is a multi-use powder that can be used for setting, contouring, and highlighting.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Perversion Mascara",
+    "description": "is a volumizing mascara that provides bold and blacker-than-black lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Multiple Tint",
+    "description": "is a versatile tint for the lips and cheeks, providing a natural and dewy flush.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Dazzleshadow Liquid",
+    "description": "is a liquid eyeshadow with a sparkling and dazzling finish, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Watts Up! Cream-to-Powder Highlighter",
+    "description": "is a cream-to-powder highlighter that gives the skin a luminous and natural glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Blush Mini",
+    "description": "is a mini version of the cream blush, perfect for on-the-go application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Matte Bronzer",
+    "description": "is a matte bronzer that blends seamlessly for a natural-looking sun-kissed complexion.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Bronzer",
+    "description": "is a creamy and blendable cream bronzer, perfect for a sun-kissed look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Alyssa Edwards Eyeshadow Palette",
+    "description": "is a vibrant and colorful eyeshadow palette in collaboration with drag queen Alyssa Edwards.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Hangover 3-In-1 Replenishing Primer & Setting Spray",
+    "description": "is a multipurpose spray that can be used as a primer, setting spray, and refreshing mist.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Ultraviolet Eyeshadow Palette",
+    "description": "is an eyeshadow palette featuring bold and vibrant shades inspired by ultraviolet hues.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS The Multiple",
+    "description": "is a versatile stick for the lips, cheeks, and eyes, providing a sheer and natural glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Studio Fix Sculpt And Shape Contour Palette",
+    "description": "is a contour palette with a mix of contour and highlighting powders.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Beam Liquid Face Highlighter",
+    "description": "is a liquid highlighter that adds a radiant and dewy glow to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydroflex Serum Foundation",
+    "description": "is a serum foundation that provides lightweight and buildable coverage.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Cheat Lip Liner",
+    "description": "is a lip liner pencil that helps define and shape the lips for a fuller appearance.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Flypencil Longwear Pencil Eyeliner",
+    "description": "is a long-wearing and creamy eyeliner pencil with a twist-up design.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Sultry Eyeshadow Palette",
+    "description": "is an eyeshadow palette with cool-toned and smokey shades, perfect for dramatic looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Kiss Moisture Matte Long Wear Lipstick",
+    "description": "is a moisturizing matte lipstick with a peachy scent and long-lasting formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Vice Lip Chemistry",
+    "description": "is a long-lasting and glossy lip tint that reacts to the pH of the lips, creating a custom color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Lip Glide",
+    "description": "is a hybrid lip formula that combines the ease of a gloss with the coverage of a lipstick.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Extra Dimension Skinfinish",
+    "description": "is a highlighter with a creamy powder formula, providing a luminous and metallic finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics GALifornia Blush",
+    "description": "is a sunny and golden pink blush with a hint of shimmer, perfect for a beachy glow.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte Maracuja Juicy Lip",
+    "description": "is a hydrating and juicy lip gloss with a non-sticky formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Hollywood Contour Wand",
+    "description": "is a contour wand with a cushion applicator, perfect for easy and precise contouring.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Gloss Bomb Universal Lip Luminizer Mini",
+    "description": "is a mini version of the universal lip luminizer, perfect for on-the-go application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Jackie Aina Eyeshadow Palette",
+    "description": "is an eyeshadow palette in collaboration with YouTuber Jackie Aina, featuring a mix of bold and neutral shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Damn Girl! 24-Hour Mascara",
+    "description": "is a long-wearing and volumizing mascara that delivers intense black lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Reloaded Eyeshadow Palette Mini",
+    "description": "is a mini version of the reloaded eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Foundation Stick",
+    "description": "is a versatile foundation stick with a matte finish, suitable for buildable coverage.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Extra Dimension Blush",
+    "description": "is a blush with a luminous and reflective finish, adding a pop of color to the cheeks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Dandelion Brightening Powder",
+    "description": "is a brightening face powder with a hint of shimmer, perfect for a radiant complexion.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydrocealer Concealer",
+    "description": "is a lightweight and hydrating concealer with a natural finish, suitable for brightening the under-eye area.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Lustre Lip Gloss",
+    "description": "is a luxurious lip gloss with a high-shine finish, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Kiss'r Luscious Lip Balm",
+    "description": "is a moisturizing lip balm that nourishes and conditions the lips.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Soft Glam II Mini Eyeshadow Palette",
+    "description": "is a mini version of the soft glam eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Tutti Frutti Dew You Full-Coverage Fresh Glow Foundation",
+    "description": "is a full-coverage foundation that provides a fresh and radiant glow to the skin.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Heat Eyeshadow Palette Mini",
+    "description": "is a mini version of the iconic heat eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Lip Pencil Set",
+    "description": "is a set of mini velvet matte lip pencils in assorted shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Lipglass",
+    "description": "is a high-shine lip gloss with a glass-like finish, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics 24-Hour Brow Setter Clear Brow Gel",
+    "description": "is a clear brow gel that keeps brows in place all day long.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Blender Cream Bronzer Brush",
+    "description": "is a versatile and densely packed brush, perfect for applying cream bronzer.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Brow Lift Three-Way Shape, Lift & Shade Eyebrow Pencil",
+    "description": "is a three-in-one eyebrow pencil that shapes, lifts, and shades the brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Filt'r Hydrating Longwear Foundation",
+    "description": "is a hydrating and long-lasting foundation that provides medium to full coverage.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Riviera Eyeshadow Palette",
+    "description": "is an eyeshadow palette featuring a mix of colorful and coastal-inspired shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Puff Long-Wearing Diffused Matte Lip Color",
+    "description": "is a diffused matte lipstick with a cushiony and comfortable formula.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Perversion Waterproof Fine-Point Eye Pen Mini",
+    "description": "is a mini version of the waterproof eye pen, perfect for travel and precise application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Radiant Creamy Concealer Mini",
+    "description": "is a mini version of the iconic radiant creamy concealer, perfect for on-the-go touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Prep + Prime Lip",
+    "description": "is a lip primer that smooths and prepares the lips for long-lasting lipstick application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Gimme Brow+ Volumizing Eyebrow Gel",
+    "description": "is a volumizing eyebrow gel with microfibers, perfect for filling in sparse brows.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Surfer Curl Volumizing Mascara",
+    "description": "is a volumizing and curling mascara that adds definition to the lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Eyes to Mesmerise Cream Eyeshadow",
+    "description": "is a cream eyeshadow with a soft and blendable formula, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Full Frontal Volume, Lift & Curl Mascara",
+    "description": "is a mascara with a flat-to-fat brush that volumizes, lifts, and curls lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Carli Bybel Mini Eyeshadow Palette",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Carli Bybel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Sweet Peach Lip Gloss",
+    "description": "is a lip gloss with a peachy scent and juicy shine, available in various shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked2 Eyeshadow Palette",
+    "description": "is an iconic eyeshadow palette with taupe-hued neutrals and shimmery shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Climax Mascara",
+    "description": "is a volumizing mascara that delivers dramatic and blacker-than-black lashes.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Eye Brows Styler",
+    "description": "is a brow styler with a spoolie on one end and a retractable pencil on the other.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Hoola Quickie Contour Stick",
+    "description": "is a cream contour stick with a soft matte finish, perfect for contouring on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Surfer Curl Waterproof Mascara",
+    "description": "is a waterproof version of the surfer curl mascara, ideal for long-lasting wear.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Luxury Eyeshadow Palette of Pops",
+    "description": "is an eyeshadow palette featuring sparkling and shimmering 'pops' of color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Snap Shadows Mix & Match Eyeshadow Palette Mini Set",
+    "description": "is a set of mini snap shadows palettes, perfect for creating various eye looks.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Soft Glam Eyeshadow Palette Mini",
+    "description": "is a mini version of the soft glam eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Perfect Instant Coverage Concealer Mini",
+    "description": "is a mini version of the peach perfect concealer, ideal for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked3 Eyeshadow Palette Mini",
+    "description": "is a mini version of the iconic naked3 eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Orgasm Blush Mini",
+    "description": "is a mini version of the iconic orgasm blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Fix+ Mattifying Mist",
+    "description": "is a mattifying setting spray that keeps shine under control and sets makeup.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Roller Liner Liquid Eyeliner Mini",
+    "description": "is a mini version of the roller liner liquid eyeliner, perfect for precise application on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Jelly Glaze Anytime Lip Mask",
+    "description": "is a hydrating lip mask with a sheer hint of color, perfect for daily wear.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Pillow Talk Lip Cheat Lip Liner",
+    "description": "is a lip liner in the iconic pillow talk shade, perfect for defining the lips.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Kiss'r Luscious Lip Balm Mini",
+    "description": "is a mini version of the pro kiss'r lip balm, perfect for on-the-go hydration.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Soft Glam II Mini Eyeshadow Palette",
+    "description": "is a mini version of the soft glam eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Better Than Sex Mascara Mini",
+    "description": "is a mini version of the iconic better than sex mascara, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Honey Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked honey eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Orgasm Liquid Blush",
+    "description": "is a liquid version of the iconic orgasm blush, perfect for a natural flush.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Concealer",
+    "description": "is a long-wearing concealer that provides full coverage and a natural matte finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Precisely, My Brow Pencil Ultra-Fine Shape & Define Mini",
+    "description": "is a mini version of the precisely, my brow pencil, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Bronzer Mini",
+    "description": "is a mini version of the cream bronzer, ideal for on-the-go application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Hollywood Flawless Filter Mini",
+    "description": "is a mini version of the hollywood flawless filter, perfect for a radiant glow on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Blush Mini",
+    "description": "is a mini version of the cheeks out cream blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Norvina Pro Pigment Palette Vol. 3 Mini",
+    "description": "is a mini version of the norvina pro pigment palette vol. 3, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Super Coverage Multi-Use Sculpting Concealer Mini",
+    "description": "is a mini version of the born this way concealer, ideal for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Cherry Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked cherry eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Afterglow Lip Balm",
+    "description": "is a hydrating lip balm with a subtle hint of color and a luminous finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Paint Pot Mini",
+    "description": "is a mini version of the pro longwear paint pot, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Brow Highlight & Lift Pencil Mini",
+    "description": "is a mini version of the high brow highlight & lift pencil, perfect for brightening the brow bone on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Blush in True Love",
+    "description": "is a limited-edition shade of the cream blush, perfect for a romantic flush of color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Matte Bronzer Mini",
+    "description": "is a mini version of the airbrush matte bronzer, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Bronzer Mini",
+    "description": "is a mini version of the cheeks out cream bronzer, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Alyssa Edwards Eyeshadow Palette Mini",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Alyssa Edwards.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Hangover 3-In-1 Replenishing Primer & Setting Spray Mini",
+    "description": "is a mini version of the hangover 3-in-1 spray, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Ultraviolet Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked ultraviolet eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS The Multiple Mini",
+    "description": "is a mini version of the iconic the multiple, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Studio Fix Sculpt And Shape Contour Palette Mini",
+    "description": "is a mini version of the sculpt and shape contour palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Beam Liquid Face Highlighter Mini",
+    "description": "is a mini version of the high beam highlighter, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydroflex Serum Foundation Mini",
+    "description": "is a mini version of the hydroflex serum foundation, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Cheat Lip Liner in Pillow Talk",
+    "description": "is a limited-edition shade of the lip liner, perfect for the iconic pillow talk look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Flypencil Longwear Pencil Eyeliner Mini",
+    "description": "is a mini version of the flypencil eyeliner, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Sultry Eyeshadow Palette Mini",
+    "description": "is a mini version of the sultry eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Puff Long-Wearing Diffused Matte Lip Color Mini",
+    "description": "is a mini version of the peach puff lip color, perfect for on-the-go wear.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Vice Lip Chemistry Mini",
+    "description": "is a mini version of the vice lip chemistry, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Foundation Stick Mini",
+    "description": "is a mini version of the velvet matte foundation stick, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Extra Dimension Blush Mini",
+    "description": "is a mini version of the extra dimension blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics GALifornia Blush Mini",
+    "description": "is a mini version of the GALifornia blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydrocealer Concealer Mini",
+    "description": "is a mini version of the hydrocealer concealer, perfect for on-the-go touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Lustre Lip Gloss Mini",
+    "description": "is a mini version of the lip lustre lip gloss, perfect for on-the-go shine.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Kiss'r Luscious Lip Balm Mini in Latte Lips",
+    "description": "is a limited-edition mini version of the pro kiss'r lip balm in the shade Latte Lips.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Jackie Aina Eyeshadow Palette Mini",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Jackie Aina.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Damn Girl! 24-Hour Mascara Mini",
+    "description": "is a mini version of the damn girl! mascara, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Reloaded Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked reloaded eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Lip Pencil Set Mini",
+    "description": "is a mini set of the velvet matte lip pencils, perfect for travel and trying new shades.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Lipglass Mini",
+    "description": "is a mini version of the lipglass, perfect for on-the-go shine.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics 24-Hour Brow Setter Clear Brow Gel Mini",
+    "description": "is a mini version of the 24-hour brow setter, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Jelly Glaze Anytime Lip Mask in Salt Lyfe",
+    "description": "is a limited-edition shade of the jelly glaze lip mask, perfect for a beachy pout.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Pillow Talk Lip Cheat Lip Liner in Medium",
+    "description": "is a deeper shade of the iconic pillow talk lip liner, perfect for a more intense look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Kiss'r Luscious Lip Balm Mini in Mocha Kiss",
+    "description": "is a limited-edition mini version of the pro kiss'r lip balm in the shade Mocha Kiss.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Soft Glam II Mini Eyeshadow Palette",
+    "description": "is a mini version of the soft glam eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Better Than Sex Mascara Mini",
+    "description": "is a mini version of the iconic better than sex mascara, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Honey Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked honey eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Orgasm Liquid Blush Mini",
+    "description": "is a mini version of the iconic orgasm blush, perfect for a natural flush.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Concealer",
+    "description": "is a long-wearing concealer that provides full coverage and a natural matte finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Precisely, My Brow Pencil Ultra-Fine Shape & Define Mini",
+    "description": "is a mini version of the precisely, my brow pencil, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Bronzer Mini",
+    "description": "is a mini version of the cream bronzer, ideal for on-the-go application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Hollywood Flawless Filter Mini",
+    "description": "is a mini version of the hollywood flawless filter, perfect for a radiant glow on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Blush Mini",
+    "description": "is a mini version of the cheeks out cream blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Norvina Pro Pigment Palette Vol. 3 Mini",
+    "description": "is a mini version of the norvina pro pigment palette vol. 3, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Super Coverage Multi-Use Sculpting Concealer Mini",
+    "description": "is a mini version of the born this way concealer, ideal for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Cherry Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked cherry eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Afterglow Lip Balm",
+    "description": "is a hydrating lip balm with a subtle hint of color and a luminous finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Paint Pot Mini",
+    "description": "is a mini version of the pro longwear paint pot, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Brow Highlight & Lift Pencil Mini",
+    "description": "is a mini version of the high brow highlight & lift pencil, perfect for brightening the brow bone on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Blush in True Love",
+    "description": "is a limited-edition shade of the cream blush, perfect for a romantic flush of color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Matte Bronzer Mini",
+    "description": "is a mini version of the airbrush matte bronzer, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Bronzer Mini",
+    "description": "is a mini version of the cheeks out cream bronzer, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Alyssa Edwards Eyeshadow Palette Mini",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Alyssa Edwards.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Hangover 3-In-1 Replenishing Primer & Setting Spray Mini",
+    "description": "is a mini version of the hangover 3-in-1 spray, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Ultraviolet Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked ultraviolet eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS The Multiple Mini",
+    "description": "is a mini version of the iconic the multiple, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Studio Fix Sculpt And Shape Contour Palette Mini",
+    "description": "is a mini version of the sculpt and shape contour palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Beam Liquid Face Highlighter Mini",
+    "description": "is a mini version of the high beam highlighter, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydroflex Serum Foundation Mini",
+    "description": "is a mini version of the hydro-flex serum foundation, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Cheat Lip Liner in Pillow Talk Intense",
+    "description": "is a deeper and more intense version of the iconic pillow talk lip liner.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Flypencil Longwear Pencil Eyeliner in Space Cookie",
+    "description": "is a limited-edition shade of the flypencil eyeliner, perfect for a futuristic look.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Sultry Eyeshadow Palette Mini",
+    "description": "is a mini version of the sultry eyeshadow palette, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Peach Puff Long-Wearing Diffused Matte Lip Color Mini in Peachy Keen",
+    "description": "is a limited-edition mini version of the peach puff lip color in the shade Peachy Keen.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Vice Lip Chemistry Mini in Firebird",
+    "description": "is a limited-edition mini version of the vice lip chemistry in the shade Firebird.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Velvet Matte Foundation Stick Mini",
+    "description": "is a mini version of the velvet matte foundation stick, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Extra Dimension Blush Mini in Fairly Precious",
+    "description": "is a limited-edition mini version of the extra dimension blush in the shade Fairly Precious.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics GALifornia Blush Mini",
+    "description": "is a mini version of the GALifornia blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydrocealer Concealer Mini in Light Sand",
+    "description": "is a limited-edition mini version of the hydrocealer concealer in the shade Light Sand.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Lip Lustre Lip Gloss Mini in Walk of No Shame",
+    "description": "is a limited-edition mini version of the lip lustre lip gloss in the shade Walk of No Shame.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Pro Kiss'r Luscious Lip Balm Mini in Cocoa Drizzle",
+    "description": "is a limited-edition mini version of the pro kiss'r lip balm in the shade Cocoa Drizzle.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Jackie Aina Eyeshadow Palette Mini",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Jackie Aina.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Damn Girl! 24-Hour Mascara Mini",
+    "description": "is a mini version of the damn girl! mascara, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Reloaded Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked reloaded eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Orgasm Liquid Blush Mini",
+    "description": "is a mini version of the iconic orgasm blush, perfect for a natural flush.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Concealer",
+    "description": "is a long-wearing concealer that provides full coverage and a natural matte finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics Precisely, My Brow Pencil Ultra-Fine Shape & Define Mini",
+    "description": "is a mini version of the precisely, my brow pencil, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Bronzer Mini",
+    "description": "is a mini version of the cream bronzer, ideal for on-the-go application.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Hollywood Flawless Filter Mini",
+    "description": "is a mini version of the hollywood flawless filter, perfect for a radiant glow on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Blush Mini",
+    "description": "is a mini version of the cheeks out cream blush, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Norvina Pro Pigment Palette Vol. 3 Mini",
+    "description": "is a mini version of the norvina pro pigment palette vol. 3, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Born This Way Super Coverage Multi-Use Sculpting Concealer Mini",
+    "description": "is a mini version of the born this way concealer, ideal for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Cherry Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked cherry eyeshadow palette, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS Afterglow Lip Balm",
+    "description": "is a hydrating lip balm with a subtle hint of color and a luminous finish.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Pro Longwear Paint Pot Mini",
+    "description": "is a mini version of the pro longwear paint pot, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Brow Highlight & Lift Pencil Mini",
+    "description": "is a mini version of the high brow highlight & lift pencil, perfect for brightening the brow bone on the go.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Breezy Cream Blush in True Love",
+    "description": "is a limited-edition shade of the cream blush, perfect for a romantic flush of color.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Charlotte Tilbury Airbrush Matte Bronzer Mini",
+    "description": "is a mini version of the airbrush matte bronzer, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Fenty Beauty Cheeks Out Freestyle Cream Bronzer Mini",
+    "description": "is a mini version of the cheeks out cream bronzer, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Anastasia Beverly Hills Alyssa Edwards Eyeshadow Palette Mini",
+    "description": "is a mini version of the eyeshadow palette in collaboration with Alyssa Edwards.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Too Faced Hangover 3-In-1 Replenishing Primer & Setting Spray Mini",
+    "description": "is a mini version of the hangover 3-in-1 spray, perfect for travel.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Urban Decay Naked Ultraviolet Eyeshadow Palette Mini",
+    "description": "is a mini version of the naked ultraviolet eyeshadow palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "NARS The Multiple Mini",
+    "description": "is a mini version of the iconic the multiple, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "MAC Studio Fix Sculpt And Shape Contour Palette Mini",
+    "description": "is a mini version of the sculpt and shape contour palette, perfect for on-the-go use.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Benefit Cosmetics High Beam Liquid Face Highlighter Mini",
+    "description": "is a mini version of the high beam highlighter, perfect for travel and touch-ups.",
+    "category": "Makeup"
+  },
+  {
+    "product": "Tarte SEA Hydroflex Serum Foundation Mini",
+    "description": "is a mini version of the hydro
+  } 
 ]
