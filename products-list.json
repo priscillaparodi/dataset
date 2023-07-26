@@ -14152,7 +14152,7 @@
   {
     "product": "Tanzanite and Yellow Gold Bracelet",
     "description": "is a dazzling tanzanite and yellow gold bracelet, capturing the unique and captivating color of tanzanite.",
-    "category": "Jewelry
+    "category": "Jewelry"
   },
   {
     "product": "Inception (Blu-ray)",
@@ -14590,8 +14590,68 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Star Wars: Episode V - The Empire Strikes Back (Blu-ray)",
+    "description": "is the second film in the original Star Wars trilogy. It follows the journey of Luke Skywalker as he faces challenges and learns the truth about his past.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "E.T. the Extra-Terrestrial (Blu-ray)",
+    "description": "is a heartwarming sci-fi film directed by Steven Spielberg. It tells the story of a young boy who befriends an alien stranded on Earth and helps him return home.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Saving Private Ryan (Blu-ray)",
+    "description": "is a powerful war film directed by Steven Spielberg. It follows a group of soldiers on a mission to find and bring home Private James Francis Ryan, whose three brothers have been killed in action during World War II.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Two Towers (Blu-ray)",
+    "description": "is the second film in the Lord of the Rings trilogy. It continues the journey of the Fellowship of the Ring as they face challenges and dangers.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Interstellar (Blu-ray)",
+    "description": "is a sci-fi epic directed by Christopher Nolan. It follows a group of explorers on a mission to find a new habitable planet for humanity.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Departed (Blu-ray)",
+    "description": "is a gripping crime drama directed by Martin Scorsese. It delves into the dangerous world of undercover agents and mob informants.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Harry Potter and the Deathly Hallows: Part 2 (Blu-ray)",
+    "description": "concludes the epic journey of Harry Potter as he faces the final showdown with the dark lord Voldemort.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -14660,8 +14720,68 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Star Wars: Episode V - The Empire Strikes Back (Blu-ray)",
+    "description": "is the second film in the original Star Wars trilogy. It follows the journey of Luke Skywalker as he faces challenges and learns the truth about his past.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "E.T. the Extra-Terrestrial (Blu-ray)",
+    "description": "is a heartwarming sci-fi film directed by Steven Spielberg. It tells the story of a young boy who befriends an alien stranded on Earth and helps him return home.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Saving Private Ryan (Blu-ray)",
+    "description": "is a powerful war film directed by Steven Spielberg. It follows a group of soldiers on a mission to find and bring home Private James Francis Ryan, whose three brothers have been killed in action during World War II.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Two Towers (Blu-ray)",
+    "description": "is the second film in the Lord of the Rings trilogy. It continues the journey of the Fellowship of the Ring as they face challenges and dangers.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Interstellar (Blu-ray)",
+    "description": "is a sci-fi epic directed by Christopher Nolan. It follows a group of explorers on a mission to find a new habitable planet for humanity.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Departed (Blu-ray)",
+    "description": "is a gripping crime drama directed by Martin Scorsese. It delves into the dangerous world of undercover agents and mob informants.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Harry Potter and the Deathly Hallows: Part 2 (Blu-ray)",
+    "description": "concludes the epic journey of Harry Potter as he faces the final showdown with the dark lord Voldemort.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -14730,11 +14850,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -14797,151 +14912,6 @@
   {
     "product": "The Silence of the Lambs (Blu-ray)",
     "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Star Wars: Episode V - The Empire Strikes Back (Blu-ray)",
-    "description": "is the second film in the original Star Wars trilogy. It follows the journey of Luke Skywalker as he faces challenges and learns the truth about his past.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "E.T. the Extra-Terrestrial (Blu-ray)",
-    "description": "is a heartwarming sci-fi film directed by Steven Spielberg. It tells the story of a young boy who befriends an alien stranded on Earth and helps him return home.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Saving Private Ryan (Blu-ray)",
-    "description": "is a powerful war film directed by Steven Spielberg. It follows a group of soldiers on a mission to find and bring home Private James Francis Ryan, whose three brothers have been killed in action during World War II.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Two Towers (Blu-ray)",
-    "description": "is the second film in the Lord of the Rings trilogy. It continues the journey of the Fellowship of the Ring as they face challenges and dangers.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Interstellar (Blu-ray)",
-    "description": "is a sci-fi epic directed by Christopher Nolan. It follows a group of explorers on a mission to find a new habitable planet for humanity.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Departed (Blu-ray)",
-    "description": "is a gripping crime drama directed by Martin Scorsese. It delves into the dangerous world of undercover agents and mob informants.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Harry Potter and the Deathly Hallows: Part 2 (Blu-ray)",
-    "description": "concludes the epic journey of Harry Potter as he faces the final showdown with the dark lord Voldemort.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Star Wars: Episode V - The Empire Strikes Back (Blu-ray)",
-    "description": "is the second film in the original Star Wars trilogy. It follows the journey of Luke Skywalker as he faces challenges and learns the truth about his past.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "E.T. the Extra-Terrestrial (Blu-ray)",
-    "description": "is a heartwarming sci-fi film directed by Steven Spielberg. It tells the story of a young boy who befriends an alien stranded on Earth and helps him return home.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Saving Private Ryan (Blu-ray)",
-    "description": "is a powerful war film directed by Steven Spielberg. It follows a group of soldiers on a mission to find and bring home Private James Francis Ryan, whose three brothers have been killed in action during World War II.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Two Towers (Blu-ray)",
-    "description": "is the second film in the Lord of the Rings trilogy. It continues the journey of the Fellowship of the Ring as they face challenges and dangers.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Interstellar (Blu-ray)",
-    "description": "is a sci-fi epic directed by Christopher Nolan. It follows a group of explorers on a mission to find a new habitable planet for humanity.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Departed (Blu-ray)",
-    "description": "is a gripping crime drama directed by Martin Scorsese. It delves into the dangerous world of undercover agents and mob informants.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Harry Potter and the Deathly Hallows: Part 2 (Blu-ray)",
-    "description": "concludes the epic journey of Harry Potter as he faces the final showdown with the dark lord Voldemort.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -15119,11 +15089,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -15284,11 +15249,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -15439,11 +15399,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -15584,11 +15539,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -15679,11 +15629,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -15771,106 +15716,6 @@
   {
     "product": "The Silence of the Lambs (Blu-ray)",
     "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -16059,8 +15904,93 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -16154,8 +16084,863 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
     "product": "The Matrix (Blu-ray)",
     "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -16439,8 +17224,273 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Jurassic Park (Blu-ray)",
+    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight Rises (Blu-ray)",
+    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Schindler's List (Blu-ray)",
+    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Goodfellas (Blu-ray)",
+    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Inception (Blu-ray)",
+    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather (Blu-ray)",
+    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Forrest Gump (Blu-ray)",
+    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Gladiator (Blu-ray)",
+    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Godfather: Part II (Blu-ray)",
+    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
+    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Prestige (Blu-ray)",
+    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Lion King (Blu-ray)",
+    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Avatar (Blu-ray)",
+    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Pursuit of Happyness (Blu-ray)",
+    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "Titanic (Blu-ray)",
+    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Dark Knight (Blu-ray)",
+    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Shawshank Redemption (Blu-ray)",
+    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
+    "category": "Blu-ray and DVD Movies"
+  },
+  {
+    "product": "The Silence of the Lambs (Blu-ray)",
+    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -16629,151 +17679,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -16861,1056 +17766,6 @@
   {
     "product": "The Silence of the Lambs (Blu-ray)",
     "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Jurassic Park (Blu-ray)",
-    "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight Rises (Blu-ray)",
-    "description": "is the final installment of Christopher Nolan's Batman trilogy. It depicts Batman's ultimate confrontation with the ruthless villain Bane.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Schindler's List (Blu-ray)",
-    "description": "is a haunting and powerful film directed by Steven Spielberg. It tells the true story of Oskar Schindler, a German businessman who saved the lives of over a thousand Polish-Jewish refugees during the Holocaust.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Goodfellas (Blu-ray)",
-    "description": "is a crime film directed by Martin Scorsese, based on the true story of Henry Hill's life in the mob. It provides an inside look at the world of organized crime from the perspective of a former gangster.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Inception (Blu-ray)",
-    "description": "is a mind-bending sci-fi film directed by Christopher Nolan. It follows a skilled thief who enters people's dreams to steal their secrets.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather (Blu-ray)",
-    "description": "is a classic crime film directed by Francis Ford Coppola. It tells the story of the Corleone crime family and their rise to power in the world of organized crime.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Forrest Gump (Blu-ray)",
-    "description": "is a heartwarming drama that follows the life of Forrest Gump, a kind-hearted and slow-witted but athletically-talented man.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Gladiator (Blu-ray)",
-    "description": "is an epic historical drama that depicts the life of Maximus Decimus Meridius, a loyal general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Godfather: Part II (Blu-ray)",
-    "description": "is the sequel to The Godfather, continuing the saga of the Corleone family and the rise of Vito Corleone in the early 1900s and the ascension of Michael Corleone as the new Don in the 1950s.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lord of the Rings: The Return of the King (Blu-ray)",
-    "description": "is the final film in the Lord of the Rings trilogy. It follows the epic conclusion of the quest to destroy the One Ring.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Prestige (Blu-ray)",
-    "description": "is a mysterious and riveting film directed by Christopher Nolan. It follows the intense rivalry between two magicians.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Lion King (Blu-ray)",
-    "description": "is a beloved animated musical film by Disney. It tells the story of a young lion cub named Simba who must reclaim his kingdom from his treacherous uncle.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Avatar (Blu-ray)",
-    "description": "is a visually stunning sci-fi film directed by James Cameron. It follows the story of a paraplegic Marine who becomes part of the Avatar program on the alien world of Pandora.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Pursuit of Happyness (Blu-ray)",
-    "description": "is an inspiring drama based on the true story of Chris Gardner, a struggling salesman who faces hardships while trying to provide a better life for his son.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "Titanic (Blu-ray)",
-    "description": "is a romantic drama directed by James Cameron. It tells the ill-fated story of the RMS Titanic and the love affair between two passengers from different social classes.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Dark Knight (Blu-ray)",
-    "description": "is a superhero film directed by Christopher Nolan. It showcases Batman's battle against the chaotic and criminal mastermind, the Joker.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Shawshank Redemption (Blu-ray)",
-    "description": "tells the poignant tale of hope and friendship within the confines of a prison. It follows the journey of a wrongfully convicted man who befriends a fellow inmate as they navigate the harsh realities of life behind bars.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Silence of the Lambs (Blu-ray)",
-    "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
     "category": "Blu-ray and DVD Movies"
   },
   {
@@ -18019,11 +17874,6 @@
     "category": "Blu-ray and DVD Movies"
   },
   {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
     "product": "Jurassic Park (Blu-ray)",
     "description": "is a sci-fi adventure film directed by Steven Spielberg. It follows a group of scientists and visitors who find themselves trapped on an island theme park filled with genetically resurrected dinosaurs.",
     "category": "Blu-ray and DVD Movies"
@@ -18111,11 +17961,6 @@
   {
     "product": "The Silence of the Lambs (Blu-ray)",
     "description": "is a psychological thriller directed by Jonathan Demme. It follows the young FBI trainee Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer, to catch another serial killer at large.",
-    "category": "Blu-ray and DVD Movies"
-  },
-  {
-    "product": "The Matrix (Blu-ray)",
-    "description": "is a groundbreaking sci-fi film that explores a dystopian future where reality is simulated, and humans are unknowingly trapped in a virtual world.",
     "category": "Blu-ray and DVD Movies"
   },
   {
