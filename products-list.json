@@ -130,54 +130,14 @@
         "category": "Fitness Trackers"
     },
     {
-        "product": "Amazon Echo Show 10 (3rd Gen)",
-        "description": "is a smart display with a 10.1-inch HD screen and Alexa voice control. It can rotate to face you and provides hands-free video calling, entertainment, and smart home control.",
-        "category": "Smart Home Devices"
-    },
-    {
-        "product": "DJI Mavic Air 2 Drone",
-        "description": "is a compact and powerful drone with a 4K camera, intelligent shooting modes, and up to 34 minutes of flight time. It offers high-quality aerial photography and videography.",
-        "category": "Drones"
-    },
-    {
         "product": "Kindle Paperwhite",
         "description": "is a waterproof e-reader with a high-resolution display and built-in adjustable light. It provides a vast selection of e-books and a distraction-free reading experience.",
         "category": "E-Readers"
     },
     {
-        "product": "Nintendo Switch OLED Model",
-        "description": "is the upgraded version of the popular Nintendo Switch console. It features a vibrant 7-inch OLED screen, enhanced audio, and all the great gaming capabilities of the original.",
-        "category": "Gaming Consoles"
-    },
-    {
-        "product": "Canon EOS R6 Mirrorless Camera",
-        "description": "is a full-frame mirrorless camera with advanced image stabilization, high-speed shooting, and 4K video recording. It's designed for professional photographers and content creators.",
-        "category": "Mirrorless Cameras"
-    },
-    {
-        "product": "Logitech MX Master 3 Wireless Mouse",
-        "description": "is a high-precision wireless mouse with customizable buttons and a comfortable ergonomic design. It offers smooth cursor control and is suitable for productivity tasks.",
-        "category": "Computer Accessories"
-    },
-    {
-        "product": "Seagate Backup Plus Portable External Hard Drive",
-        "description": "is a reliable and portable external hard drive for backing up and storing data. It offers large storage capacity and fast data transfer speeds.",
-        "category": "External Hard Drives"
-    },
-    {
         "product": "Anker PowerCore 26800 Portable Charger",
         "description": "is a high-capacity portable charger with multiple USB ports. It can charge smartphones, tablets, and other USB devices on the go.",
         "category": "Portable Chargers"
-    },
-    {
-        "product": "Nespresso VertuoPlus Coffee and Espresso Maker",
-        "description": "is a single-serve coffee and espresso maker with a unique brewing technology. It delivers high-quality coffee and espresso with a simple one-touch operation.",
-        "category": "Coffee Makers"
-    },
-    {
-        "product": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
-        "description": "is a versatile kitchen appliance that serves as a pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer. It simplifies cooking and saves time.",
-        "category": "Electric Pressure Cookers"
     },
     {
         "product": "NutriBullet Pro 900 Series Blender",
@@ -195,11 +155,6 @@
         "category": "Televisions"
     },
     {
-        "product": "Fitbit Inspire 2 Fitness Tracker",
-        "description": "is an affordable fitness tracker with activity and sleep tracking capabilities. It provides insights to help you stay on top of your health and fitness goals.",
-        "category": "Fitness Trackers"
-    },
-    {
         "product": "Bose QuietComfort 35 II Wireless Headphones",
         "description": "are premium noise-canceling headphones with excellent sound quality and comfort. They are perfect for travelers and anyone seeking a quiet listening experience.",
         "category": "Headphones"
@@ -210,29 +165,14 @@
         "category": "Smart Home Devices"
     },
     {
-        "product": "Fujifilm Instax Mini 11 Instant Camera",
-        "description": "is a fun and compact instant camera that prints credit-card-sized photos. It's great for capturing and sharing memories instantly.",
-        "category": "Instant Cameras"
-    },
-    {
         "product": "Roku Streaming Stick+",
         "description": "is a portable streaming device that plugs into your TV's HDMI port, giving you access to thousands of streaming channels and apps.",
         "category": "Streaming Devices"
     },
     {
-        "product": "Kindle Oasis",
-        "description": "is Amazon's premium e-reader with a large high-resolution display, ergonomic design, and physical page turn buttons. It's perfect for avid readers.",
-        "category": "E-Readers"
-    },
-    {
         "product": "Sony PlayStation 5",
         "description": "is the latest gaming console from Sony, offering cutting-edge graphics, immersive gaming experiences, and a wide range of exclusive titles.",
         "category": "Gaming Consoles"
-    },
-    {
-        "product": "Canon EOS 90D DSLR Camera",
-        "description": "is a versatile DSLR camera with fast continuous shooting and 4K video capabilities. It's suitable for photography enthusiasts and content creators.",
-        "category": "DSLR Cameras"
     },
     {
         "product": "Logitech MX Keys Advanced Wireless Illuminated Keyboard",
@@ -330,16 +270,6 @@
         "category": "Gaming Consoles"
     },
     {
-        "product": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
-        "description": "are premium over-ear headphones with industry-leading noise-canceling technology. They deliver high-fidelity audio, long battery life, and a comfortable design for extended listening sessions.",
-        "category": "Headphones"
-    },
-    {
-        "product": "Fitbit Charge 4 Fitness and Activity Tracker",
-        "description": "is a versatile fitness and activity tracker with built-in GPS. It monitors heart rate, tracks various exercises, provides sleep insights, and offers smartphone notifications.",
-        "category": "Fitness Trackers"
-    },
-    {
         "product": "Amazon Echo Show 10 (3rd Gen)",
         "description": "is a smart display with a 10.1-inch HD screen and Alexa voice control. It can rotate to face you and provides hands-free video calling, entertainment, and smart home control.",
         "category": "Smart Home Devices"
@@ -348,11 +278,6 @@
         "product": "DJI Mavic Air 2 Drone",
         "description": "is a compact and powerful drone with a 4K camera, intelligent shooting modes, and up to 34 minutes of flight time. It offers high-quality aerial photography and videography.",
         "category": "Drones"
-    },
-    {
-        "product": "Kindle Paperwhite",
-        "description": "is a waterproof e-reader with a high-resolution display and built-in adjustable light. It provides a vast selection of e-books and a distraction-free reading experience.",
-        "category": "E-Readers"
     },
     {
         "product": "Nintendo Switch OLED Model",
@@ -375,11 +300,6 @@
         "category": "External Hard Drives"
     },
     {
-        "product": "Anker PowerCore 26800 Portable Charger",
-        "description": "is a high-capacity portable charger with multiple USB ports. It can charge smartphones, tablets, and other USB devices on the go.",
-        "category": "Portable Chargers"
-    },
-    {
         "product": "Nespresso VertuoPlus Coffee and Espresso Maker",
         "description": "is a single-serve coffee and espresso maker with a unique brewing technology. It delivers high-quality coffee and espresso with a simple one-touch operation.",
         "category": "Coffee Makers"
@@ -390,19 +310,9 @@
         "category": "Electric Pressure Cookers"
     },
     {
-        "product": "NutriBullet Pro 900 Series Blender",
-        "description": "is a powerful and compact blender for making smoothies, shakes, and sauces. Its stainless steel blades can blend through tough ingredients.",
-        "category": "Blenders"
-    },
-    {
         "product": "JBL Flip 5 Portable Bluetooth Speaker",
         "description": "is a portable and waterproof Bluetooth speaker with powerful sound. It's perfect for outdoor gatherings and music on the go.",
         "category": "Bluetooth Speakers"
-    },
-    {
-        "product": "Samsung 55-inch 4K Smart QLED TV",
-        "description": "is a high-quality 55-inch QLED TV with 4K resolution and smart TV features. It offers stunning visuals and access to streaming services.",
-        "category": "Televisions"
     },
     {
         "product": "Fitbit Inspire 2 Fitness Tracker",
@@ -410,34 +320,14 @@
         "category": "Fitness Trackers"
     },
     {
-        "product": "Bose QuietComfort 35 II Wireless Headphones",
-        "description": "are premium noise-canceling headphones with excellent sound quality and comfort. They are perfect for travelers and anyone seeking a quiet listening experience.",
-        "category": "Headphones"
-    },
-    {
-        "product": "Ring Video Doorbell Pro",
-        "description": "is a smart doorbell with video and motion detection. It allows you to see, hear, and speak to visitors from your smartphone or other compatible devices.",
-        "category": "Smart Home Devices"
-    },
-    {
         "product": "Fujifilm Instax Mini 11 Instant Camera",
         "description": "is a fun and compact instant camera that prints credit-card-sized photos. It's great for capturing and sharing memories instantly.",
         "category": "Instant Cameras"
     },
     {
-        "product": "Roku Streaming Stick+",
-        "description": "is a portable streaming device that plugs into your TV's HDMI port, giving you access to thousands of streaming channels and apps.",
-        "category": "Streaming Devices"
-    },
-    {
         "product": "Kindle Oasis",
         "description": "is Amazon's premium e-reader with a large high-resolution display, ergonomic design, and physical page turn buttons. It's perfect for avid readers.",
         "category": "E-Readers"
-    },
-    {
-        "product": "Sony PlayStation 5",
-        "description": "is the latest gaming console from Sony, offering cutting-edge graphics, immersive gaming experiences, and a wide range of exclusive titles.",
-        "category": "Gaming Consoles"
     },
     {
         "product": "Canon EOS 90D DSLR Camera",
@@ -980,11 +870,6 @@
         "category": "Smartwatches"
     },
     {
-        "product": "Logitech MX Master 3 Wireless Mouse",
-        "description": "is an advanced wireless mouse with customizable buttons and ergonomic design. It's designed for productivity and precision.",
-        "category": "Computer Accessories"
-    },
-    {
         "product": "WD Black P50 Game Drive SSD",
         "description": "is a portable SSD designed for gaming with fast loading speeds and a durable build. It's perfect for expanding gaming storage on consoles and PCs.",
         "category": "External Solid State Drives"
@@ -1103,11 +988,6 @@
         "product": "Bose Frames Tempo Audio Sunglasses",
         "description": "are sporty audio sunglasses with built-in speakers. They are perfect for outdoor activities and enjoying music on the go.",
         "category": "Smart Eyewear"
-    },
-    {
-        "product": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
-        "description": "are premium wireless headphones with advanced noise cancellation and high-quality sound. They offer a comfortable and immersive listening experience.",
-        "category": "Headphones"
     },
     {
         "product": "Sony Alpha a7C Mirrorless Camera",
@@ -3392,11 +3272,6 @@
   {
     "product": "Harrow Stealth Lacrosse Stick",
     "description": "is a high-performance lacrosse stick designed for precision shooting and ball control on the field.",
-    "category": "Sports Equipment"
-  },
-  {
-    "product": "JBL Flip 5 Portable Bluetooth Speaker",
-    "description": "is a rugged and waterproof Bluetooth speaker, providing excellent sound quality for outdoor activities and workouts.",
     "category": "Sports Equipment"
   },
   {
@@ -23339,63 +23214,88 @@
     "category": "Storage & Organization"
   },
   {
-    "product": "Hanging Closet Organizer with Shelves",
-    "description": "is an organizer with shelves and compartments for hanging in the closet.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Countertop Soap Dish",
-    "description": "is a dish or holder for soap, keeping the countertop clean and organized.",
-    "category": "Storage & Organization"
-  },
-  {
     "product": "Wall-Mounted Pot and Pan Holder",
     "description": "is a holder that mounts on the wall, providing storage for pots and pans.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Bathroom Under Sink Drawer Organizer",
-    "description": "is an organizer with drawers, designed to fit under the bathroom sink.",
+    "product": "Drawer Organizer for Jewelry",
+    "description": "is an organizer tray with compartments for organizing jewelry in drawers.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Drawer Organizer for Art Supplies",
-    "description": "is an organizer tray with compartments for organizing art supplies.",
+    "product": "Kitchen Cabinet Door Organizer",
+    "description": "is an organizer that attaches to the inside of cabinet doors, providing storage.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Wall-Mounted Magnetic Knife Holder",
-    "description": "is a magnetic holder that mounts on the wall, offering storage for knives.",
+    "product": "Over-The-Toilet Storage Cabinet",
+    "description": "is a cabinet designed to fit over the toilet, offering extra storage in the bathroom.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Bathroom Wall-Mounted Shower Caddy",
-    "description": "is a wall-mounted caddy for shower essentials, keeping the shower tidy.",
+    "product": "Bathroom Wall-Mounted Toothpaste Dispenser",
+    "description": "is a wall-mounted dispenser for toothpaste, keeping the countertop organized.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Plastic Storage Boxes with Adjustable Dividers",
-    "description": "are plastic boxes with dividers that can be adjusted to create custom storage spaces.",
+    "product": "Plastic Storage Drawers with Transparent Fronts",
+    "description": "are plastic drawers with transparent fronts, allowing visibility of the contents.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Drawer Organizer for Watches",
-    "description": "is an organizer tray with compartments for organizing watches in drawers.",
+    "product": "Drawer Organizer for Baby Bottles",
+    "description": "is an organizer tray with compartments for organizing baby bottles in drawers.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Kitchen Cabinet Shelf Organizer",
-    "description": "is an organizer that inserts into kitchen cabinets, providing added storage.",
+    "product": "Floating Corner Shelves",
+    "description": "are shelves that mount on the wall in the corner, providing storage and decor.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Over-The-Toilet Storage Shelf",
-    "description": "is a shelf that fits over the toilet, offering extra storage in the bathroom.",
+    "product": "Shower Caddy with Suction Cups",
+    "description": "is a caddy with suction cups for attaching to shower walls, offering storage.",
     "category": "Storage & Organization"
   },
   {
-    "product": "Bathroom Wall-Mounted Soap Dish",
-    "description": "is a wall-mounted dish or holder for soap, keeping the countertop clutter-free.",
+    "product": "Closet Storage Organizer with Drawers",
+    "description": "is an organizer with drawers, suitable for clothing and accessory storage.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Bathroom Countertop Makeup Brush Organizer",
+    "description": "is an organizer with compartments for keeping makeup brushes tidy on the countertop.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Plastic Storage Bins with Stacking Lids",
+    "description": "are plastic bins with lids that stack on top of each other, maximizing storage space.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Drawer Organizer for Silverware",
+    "description": "is an organizer tray with compartments for organizing silverware in drawers.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Over-The-Door Shoe Organizer",
+    "description": "is an organizer that hangs over doors, providing storage for shoes.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Bathroom Wall-Mounted Tissue Dispenser",
+    "description": "is a wall-mounted dispenser for tissues, keeping them easily accessible.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Plastic Storage Drawers with Interlocking Units",
+    "description": "are plastic drawers with units that interlock, creating a customized storage solution.",
+    "category": "Storage & Organization"
+  },
+  {
+    "product": "Bathroom Countertop Soap Dish",
+    "description": "is a dish or holder for soap, keeping the countertop clean and organized.",
     "category": "Storage & Organization"
   },
   {
@@ -23484,31 +23384,6 @@
     "category": "Storage & Organization"
   },
   {
-    "product": "Bathroom Countertop Soap Dish",
-    "description": "is a dish or holder for soap, keeping the countertop clean and organized.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Wall-Mounted Pot and Pan Holder",
-    "description": "is a holder that mounts on the wall, providing storage for pots and pans.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Under Sink Drawer Organizer",
-    "description": "is an organizer with drawers, designed to fit under the bathroom sink.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Art Supplies",
-    "description": "is an organizer tray with compartments for organizing art supplies.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Wall-Mounted Magnetic Knife Holder",
-    "description": "is a magnetic holder that mounts on the wall, offering storage for knives.",
-    "category": "Storage & Organization"
-  },
-  {
     "product": "Bathroom Wall-Mounted Shower Caddy",
     "description": "is a wall-mounted caddy for shower essentials, keeping the shower tidy.",
     "category": "Storage & Organization"
@@ -23519,28 +23394,8 @@
     "category": "Storage & Organization"
   },
   {
-    "product": "Drawer Organizer for Watches",
-    "description": "is an organizer tray with compartments for organizing watches in drawers.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Kitchen Cabinet Shelf Organizer",
-    "description": "is an organizer that inserts into kitchen cabinets, providing added storage.",
-    "category": "Storage & Organization"
-  },
-  {
     "product": "Over-The-Toilet Storage Shelf",
     "description": "is a shelf that fits over the toilet, offering extra storage in the bathroom.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Wall-Mounted Soap Dish",
-    "description": "is a wall-mounted dish or holder for soap, keeping the countertop clutter-free.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Drawers with Modular Design",
-    "description": "are plastic drawers with a modular design, allowing versatile configurations.",
     "category": "Storage & Organization"
   },
   {
@@ -23619,21 +23474,6 @@
     "category": "Storage & Organization"
   },
   {
-    "product": "Hanging Closet Organizer with Shelves",
-    "description": "is an organizer with shelves and compartments for hanging in the closet.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Countertop Soap Dish",
-    "description": "is a dish or holder for soap, keeping the countertop clean and organized.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Wall-Mounted Pot and Pan Holder",
-    "description": "is a holder that mounts on the wall, providing storage for pots and pans.",
-    "category": "Storage & Organization"
-  },
-  {
     "product": "Bathroom Under Sink Drawer Organizer",
     "description": "is an organizer with drawers, designed to fit under the bathroom sink.",
     "category": "Storage & Organization"
@@ -23649,16 +23489,6 @@
     "category": "Storage & Organization"
   },
   {
-    "product": "Bathroom Wall-Mounted Shower Caddy",
-    "description": "is a wall-mounted caddy for shower essentials, keeping the shower tidy.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Boxes with Adjustable Dividers",
-    "description": "are plastic boxes with dividers that can be adjusted to create custom storage spaces.",
-    "category": "Storage & Organization"
-  },
-  {
     "product": "Drawer Organizer for Watches",
     "description": "is an organizer tray with compartments for organizing watches in drawers.",
     "category": "Storage & Organization"
@@ -23666,151 +23496,6 @@
   {
     "product": "Kitchen Cabinet Shelf Organizer",
     "description": "is an organizer that inserts into kitchen cabinets, providing added storage.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Over-The-Toilet Storage Shelf",
-    "description": "is a shelf that fits over the toilet, offering extra storage in the bathroom.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Wall-Mounted Soap Dish",
-    "description": "is a wall-mounted dish or holder for soap, keeping the countertop clutter-free.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Drawers with Modular Design",
-    "description": "are plastic drawers with a modular design, allowing versatile configurations.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Jewelry",
-    "description": "is an organizer tray with compartments for organizing jewelry in drawers.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Kitchen Cabinet Door Organizer",
-    "description": "is an organizer that attaches to the inside of cabinet doors, providing storage.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Over-The-Toilet Storage Cabinet",
-    "description": "is a cabinet designed to fit over the toilet, offering extra storage in the bathroom.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Wall-Mounted Toothpaste Dispenser",
-    "description": "is a wall-mounted dispenser for toothpaste, keeping the countertop organized.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Drawers with Transparent Fronts",
-    "description": "are plastic drawers with transparent fronts, allowing visibility of the contents.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Baby Bottles",
-    "description": "is an organizer tray with compartments for organizing baby bottles in drawers.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Floating Corner Shelves",
-    "description": "are shelves that mount on the wall in the corner, providing storage and decor.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Shower Caddy with Suction Cups",
-    "description": "is a caddy with suction cups for attaching to shower walls, offering storage.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Closet Storage Organizer with Drawers",
-    "description": "is an organizer with drawers, suitable for clothing and accessory storage.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Countertop Makeup Brush Organizer",
-    "description": "is an organizer with compartments for keeping makeup brushes tidy on the countertop.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Bins with Stacking Lids",
-    "description": "are plastic bins with lids that stack on top of each other, maximizing storage space.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Silverware",
-    "description": "is an organizer tray with compartments for organizing silverware in drawers.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Over-The-Door Shoe Organizer",
-    "description": "is an organizer that hangs over doors, providing storage for shoes.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Wall-Mounted Tissue Dispenser",
-    "description": "is a wall-mounted dispenser for tissues, keeping them easily accessible.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Drawers with Interlocking Units",
-    "description": "are plastic drawers with units that interlock, creating a customized storage solution.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Hanging Closet Organizer with Shelves",
-    "description": "is an organizer with shelves and compartments for hanging in the closet.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Countertop Soap Dish",
-    "description": "is a dish or holder for soap, keeping the countertop clean and organized.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Wall-Mounted Pot and Pan Holder",
-    "description": "is a holder that mounts on the wall, providing storage for pots and pans.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Under Sink Drawer Organizer",
-    "description": "is an organizer with drawers, designed to fit under the bathroom sink.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Art Supplies",
-    "description": "is an organizer tray with compartments for organizing art supplies.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Wall-Mounted Magnetic Knife Holder",
-    "description": "is a magnetic holder that mounts on the wall, offering storage for knives.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Bathroom Wall-Mounted Shower Caddy",
-    "description": "is a wall-mounted caddy for shower essentials, keeping the shower tidy.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Plastic Storage Boxes with Adjustable Dividers",
-    "description": "are plastic boxes with dividers that can be adjusted to create custom storage spaces.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Drawer Organizer for Watches",
-    "description": "is an organizer tray with compartments for organizing watches in drawers.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Kitchen Cabinet Shelf Organizer",
-    "description": "is an organizer that inserts into kitchen cabinets, providing added storage.",
-    "category": "Storage & Organization"
-  },
-  {
-    "product": "Over-The-Toilet Storage Shelf",
-    "description": "is a shelf that fits over the toilet, offering extra storage in the bathroom.",
     "category": "Storage & Organization"
   },
   {
@@ -23844,33 +23529,8 @@
     "category": "Home Decor"
   },
   {
-    "product": "Elegant Crystal Chandelier",
-    "description": "is an elegant crystal chandelier that adds a touch of sophistication and glamour to any room.",
-    "category": "Home Decor"
-  },
-  {
     "product": "Modern Metal Wall Clock",
     "description": "is a sleek and minimalist wall clock made from metal, perfect for contemporary interiors.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Decorative Throw Pillow Covers",
-    "description": "are decorative pillow covers with various patterns and colors, adding style to your couch or bed.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Artificial Potted Plant",
-    "description": "is a lifelike artificial plant in a decorative pot, bringing a touch of greenery to your space with no maintenance required.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Antique Brass Wall Mirror",
-    "description": "is an antique-style wall mirror with a brass frame, creating a vintage focal point in your home.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Modern Abstract Sculpture",
-    "description": "is a contemporary abstract sculpture made from metal or resin, adding an artistic element to your decor.",
     "category": "Home Decor"
   },
   {
@@ -23879,23 +23539,8 @@
     "category": "Home Decor"
   },
   {
-    "product": "Decorative Glass Terrarium",
-    "description": "is a glass terrarium for creating your own miniature indoor garden with succulents or air plants.",
-    "category": "Home Decor"
-  },
-  {
     "product": "Vintage Persian Area Rug",
     "description": "is a vintage-style area rug with a Persian-inspired design, adding warmth and character to your floors.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Elegant Table Lamp with Fabric Shade",
-    "description": "is an elegant table lamp with a fabric shade, providing soft and warm lighting for your living space.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Wall Mounted Floating Shelves",
-    "description": "are floating shelves that mount on the wall, offering display and storage space for decor items.",
     "category": "Home Decor"
   },
   {
@@ -24329,11 +23974,6 @@
     "category": "Home Decor"
   },
   {
-    "product": "Modern Metal Wall Clock",
-    "description": "is a sleek and minimalist wall clock made from metal, perfect for contemporary interiors.",
-    "category": "Home Decor"
-  },
-  {
     "product": "Decorative Throw Pillow Covers",
     "description": "are decorative pillow covers with various patterns and colors, adding style to your couch or bed.",
     "category": "Home Decor"
@@ -24354,18 +23994,8 @@
     "category": "Home Decor"
   },
   {
-    "product": "Cozy Knit Throw Blanket",
-    "description": "is a cozy and soft knit throw blanket, perfect for cuddling up on chilly evenings.",
-    "category": "Home Decor"
-  },
-  {
     "product": "Decorative Glass Terrarium",
     "description": "is a glass terrarium for creating your own miniature indoor garden with succulents or air plants.",
-    "category": "Home Decor"
-  },
-  {
-    "product": "Vintage Persian Area Rug",
-    "description": "is a vintage-style area rug with a Persian-inspired design, adding warmth and character to your floors.",
     "category": "Home Decor"
   },
   {
