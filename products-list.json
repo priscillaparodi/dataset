@@ -24532,5 +24532,250 @@
     "product": "Wall Mounted Floating Shelves",
     "description": "are floating shelves that mount on the wall, offering display and storage space for decor items.",
     "category": "Home Decor"
-  }    
+  },
+  {
+    "product": "Creality Ender 3 Pro 3D Printer",
+    "description": "is a popular and reliable 3D printer for hobbyists and beginners. It offers a large build volume and easy setup.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Anycubic Photon Mono X Resin 3D Printer",
+    "description": "is a high-resolution resin 3D printer with a monochrome LCD screen, delivering fast and detailed prints.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Prusa i3 MK3S+ 3D Printer",
+    "description": "is a well-known and versatile 3D printer with a strong community and constant updates.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Formlabs Form 3 SLA 3D Printer",
+    "description": "is a professional-grade SLA 3D printer known for its precision and quality.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Ultimaker S5 Pro Bundle",
+    "description": "is an advanced 3D printer with a dual extrusion system and material handling station for continuous printing.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "FlashForge Creator Pro 2 3D Printer",
+    "description": "is a feature-rich 3D printer with a sturdy metal frame and dual extruders.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Sindoh 3DWOX 1 3D Printer",
+    "description": "is a user-friendly 3D printer with automated loading and unloading of filament spools.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Monoprice Voxel 3D Printer",
+    "description": "is an affordable and beginner-friendly 3D printer with a heated build plate and assisted bed leveling.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "LulzBot Mini 2 3D Printer",
+    "description": "is a compact and reliable 3D printer with an open filament system, supporting a wide range of materials.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Raise3D Pro2 Plus Dual Extruder 3D Printer",
+    "description": "is a professional-grade 3D printer with a large build volume and industrial-grade components.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Dremel DigiLab 3D45 3D Printer",
+    "description": "is a reliable and versatile 3D printer with a touchscreen interface and network connectivity.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "ELEGOO Mars 2 Pro Mono LCD Resin 3D Printer",
+    "description": "is a budget-friendly resin 3D printer with a monochrome LCD screen for faster curing times.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "XYZprinting da Vinci Jr. 1.0 A Pro 3D Printer",
+    "description": "is a compact and user-friendly 3D printer with an auto-leveling bed and Wi-Fi connectivity.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "BCN3D Sigma D25 Independent Dual Extruder 3D Printer",
+    "description": "is a professional 3D printer with independent dual extruders, enabling multi-material and soluble supports.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Original Prusa SL1 Resin 3D Printer",
+    "description": "is a resin 3D printer with a large build volume and excellent print quality.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "MakerBot Replicator+ 3D Printer",
+    "description": "is a reliable and user-friendly 3D printer with a flexible build plate and on-board camera monitoring.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "QIDI TECH X-Max 3D Printer",
+    "description": "is a high-performance 3D printer with a large build volume and industrial-grade components.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Artillery Sidewinder X1 V4 3D Printer",
+    "description": "is a large-format 3D printer with a direct drive extruder and touchscreen interface.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Anycubic Mega-S 3D Printer",
+    "description": "is a budget-friendly 3D printer with a robust metal frame and quick assembly.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Geeetech A20M 3D Printer",
+    "description": "is a dual-color 3D printer with a mixing nozzle for creating gradient prints.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "TEVO Tarantula Pro 3D Printer Kit",
+    "description": "is a DIY 3D printer kit with a large build volume and optional upgrades.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "JGMAKER Magic 3D Printer",
+    "description": "is a compact and beginner-friendly 3D printer with a magnetic build plate.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "TRONXY X5SA Pro 3D Printer",
+    "description": "is a large-format 3D printer with a touch screen and automatic bed leveling.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Printrbot Play 1505 3D Printer",
+    "description": "is a portable and compact 3D printer with a sturdy steel frame.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "FLSUN QQ-S Delta 3D Printer",
+    "description": "is a delta-style 3D printer with automatic bed leveling and a full-color touchscreen.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "MakerGear M3 Independent Dual 3D Printer",
+    "description": "is a professional-grade 3D printer with independent dual extruders and a steel frame.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Snapmaker 2.0 A350 3-in-1 3D Printer",
+    "description": "is a modular 3D printer that can also be used as a CNC machine and laser engraver.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Monoprice MP10 Mini 3D Printer",
+    "description": "is a budget-friendly 3D printer with a full-color touchscreen and assisted bed leveling.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Artillery Genius 3D Printer",
+    "description": "is a quiet and easy-to-use 3D printer with a direct drive extruder.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Dremel Digilab 3D20 3D Printer",
+    "description": "is a reliable and compact 3D printer, perfect for educational use and beginners.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "TEVO Nereus 3D Printer",
+    "description": "is a large-format 3D printer with a dual extruder and filament sensor.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "QIDI TECH X-pro 3D Printer",
+    "description": "is a high-precision 3D printer with dual extruders and an air filtration system.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Artillery Hornet 3D Printer",
+    "description": "is a portable and compact 3D printer with a flexible magnetic build plate.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "XYZprinting da Vinci Color 5D 3D Printer",
+    "description": "is a full-color 3D printer with a 5-color inkjet system for realistic prints.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Creality CR-10 V3 3D Printer",
+    "description": "is a large-format 3D printer with a silent motherboard and improved print quality.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "FlashForge Adventurer 3 3D Printer",
+    "description": "is a compact and user-friendly 3D printer with automatic filament loading.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "MakerBot Method X 3D Printer",
+    "description": "is an industrial-grade 3D printer with a heated chamber for high-temperature materials.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Anycubic Chiron 3D Printer",
+    "description": "is a large-format 3D printer with auto-leveling and a heated print bed.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Geeetech A10M 3D Printer",
+    "description": "is a dual-color 3D printer with a mixing nozzle and filament sensor.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "TEVO Tornado 3D Printer",
+    "description": "is a large-format 3D printer with a direct drive extruder and a sturdy frame.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Ultimaker S3 3D Printer",
+    "description": "is a powerful and reliable 3D printer with an enclosed build chamber.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "ELEGOO Mars Pro MSLA 3D Printer",
+    "description": "is a budget-friendly resin 3D printer with improved print quality and a durable build plate.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "FLSUN QQ-S Pro Delta 3D Printer",
+    "description": "is an upgraded version of the QQ-S with enhanced stability and features.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "QIDI TECH X-one2 3D Printer",
+    "description": "is a compact and reliable 3D printer with an all-metal frame.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Artillery Sidewinder X2 3D Printer",
+    "description": "is an upgraded version of the Sidewinder X1 with a larger build volume.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Monoprice Maker Ultimate 2 3D Printer",
+    "description": "is a versatile 3D printer with a direct drive extruder and a heated print bed.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Creality CR-6 SE 3D Printer",
+    "description": "is a user-friendly and innovative 3D printer with automatic bed leveling.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "Anycubic Mega X 3D Printer",
+    "description": "is a large-format 3D printer with a rigid metal frame and tangle-free filament.",
+    "category": "3D Printers and Accessories"
+  },
+  {
+    "product": "JGMAKER Artist-D Dual Extruder 3D Printer",
+    "description": "is a 3D printer with dual extruders and a touchscreen interface.",
+    "category": "3D Printers and Accessories"
+  }
 ]
