@@ -1,0 +1,32 @@
+[
+    {
+        "product": "Apple AirPods",
+        "description": "are wireless earbuds with high-quality audio and seamless integration with Apple devices. They offer easy setup, quick access to Siri, and the ability to switch between devices effortlessly.",
+        "category": "Wireless Earbuds"
+    },
+    {
+        "product": "Garmin Smartwatch",
+        "description": "is a high-performance wearable device with various fitness and health tracking features. It provides GPS navigation, heart rate monitoring, sleep tracking, and compatibility with smartphone notifications.",
+        "category": "Smartwatch"
+    },
+    {
+        "product": "iRobot Vacuum Cleaner",
+        "description": "is an intelligent robotic vacuum that automatically cleans your floors. It uses advanced sensors and mapping technology to efficiently navigate and clean various surfaces.",
+        "category": "Robot Vacuum Cleaner"
+    },
+    {
+        "product": "Oster Electric Wine Bottle Opener",
+        "description": "is a convenient device for effortlessly opening wine bottles. It features a sleek design, easy one-touch operation, and works on both natural and synthetic corks.",
+        "category": "Wine Accessories"
+    },
+    {
+        "product": "HDMI Cable (A Male to A Male)",
+        "description": "is a high-speed cable that allows you to connect various HDMI-enabled devices like TVs, monitors, gaming consoles, and more. It delivers high-definition audio and video signals.",
+        "category": "Electronics Accessories"
+    },
+    {
+        "product": "Ergonomic Foot Rest",
+        "description": "is designed to provide comfortable support to your feet while sitting. It helps reduce strain and fatigue, promoting better posture and overall well-being.",
+        "category": "Office Accessories"
+    }
+]
